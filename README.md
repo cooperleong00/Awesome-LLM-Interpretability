@@ -110,7 +110,6 @@ An curated list of LLM Interpretability related material.
 ##### Reasoning
 
 * **Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.299)
-
 * **How Large Language Models Implement Chain-of-Thought?** [[openreview]](https://openreview.net/forum?id=b2XfOm3RJa)
 
 #### Function
@@ -134,7 +133,6 @@ An curated list of LLM Interpretability related material.
 ##### In-context Learning
 
 * 🌟**In-context learning and induction heads**
-
 * **In-Context Learning Creates Task Vectors** [[EMNLP 2023 Findings]](https://aclanthology.org/2023.findings-emnlp.624)
 * **LLMs Represent Contextual Tasks as Compact Function Vectors** [[ICLR 2024]](https://openreview.net/forum?id=AwyxtyMwaG)
 * **Where Does In-context Machine Translation Happen in Large Language Models?** [[openreview]](https://openreview.net/forum?id=3i7iNGxw6r)
@@ -180,10 +178,8 @@ An curated list of LLM Interpretability related material.
 * **Progress measures for grokking via mechanistic interpretability** [[ICLR 2023]](https://openreview.net/forum?id=9XFSbDPmdW)
 
 * **A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations** [[ICML 2023]](https://openreview.net/forum?id=jCOrkuUpss)
-
 * 🌟**The Mechanistic Basis of Data Dependence and Abrupt Learning in an In-Context Classification Task** [[ICLR 2024 oral]](https://openreview.net/forum?id=aN4Jf6Cx69)
   * Highest scores at ICLR 2024: 10, 10, 8, 8. And by one author only!
-
 * **Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs** [[ICLR 2024 spotlight]](https://openreview.net/forum?id=MO5PiKHELW)
 * **A simple and interpretable model of grokking modular arithmetic tasks** [[openreview]](https://openreview.net/forum?id=0ZUKLCxwBo)
 
@@ -224,5 +220,3 @@ An curated list of LLM Interpretability related material.
 
 * **The Internal State of an LLM Knows When It's Lying** [[EMNLP 2023 Findings]](https://arxiv.org/abs/2304.13734)
 * **Do Androids Know They're Only Dreaming of Electric Sheep?** [[arxiv 2312]](https://arxiv.org/abs/2312.17249)
-
-
