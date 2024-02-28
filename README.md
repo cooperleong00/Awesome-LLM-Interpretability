@@ -1,6 +1,6 @@
 # Awesome-LLM-Interpretability
 
-An curated list of LLM Interpretability related material.
+A curated list of LLM Interpretability related material.
 
 ## Tutorial
 
@@ -87,6 +87,7 @@ An curated list of LLM Interpretability related material.
 * **Towards Automated Circuit Discovery for Mechanistic Interpretability** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/34e1dbe95d34d7ebaf99b9bcaeb5b2be-Abstract-Conference.html)
 * **Neuron to Graph: Interpreting Language Model Neurons at Scale** [[arxiv 2305]](https://arxiv.org/abs/2305.19911) [[openreview]](https://openreview.net/forum?id=JBLHIR8kBZ)
 * **Discovering Knowledge-Critical Subnetworks in Pretrained Language Models** [[openreview]](https://openreview.net/forum?id=Mkdwvl3Y8L)
+* **Attribution Patching Outperforms Automated Circuit Discovery** [[arxiv 2310]](https://arxiv.org/abs/2310.10348)
 
 ##### Sparse Coding
 
@@ -128,6 +129,7 @@ An curated list of LLM Interpretability related material.
 * **How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/efbba7719cc5172d175240f24be11280-Abstract-Conference.html)
 * **Can Transformers Learn to Solve Problems Recursively?** [[arxiv 2305]](http://arxiv.org/abs/2305.14699)
 * **Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla** [[arxiv 2307]](http://arxiv.org/abs/2307.09458)
+* **Refusal mechanisms: initial experiments with Llama-2-7b-chat** [[AlignmentForum 2312]](https://www.alignmentforum.org/posts/pYcEhoAoPfHhgJ8YC/refusal-mechanisms-initial-experiments-with-llama-2-7b-chat)
 * **Forbidden Facts: An Investigation of Competing Objectives in Llama-2** [[arxiv 2312]](http://arxiv.org/abs/2312.08793)
 * **How do Language Models Bind Entities in Context?** [[ICLR 2024]](https://openreview.net/forum?id=zb3b6oKO77)
 * **How Language Models Learn Context-Free Grammars?** [[openreview]](https://openreview.net/forum?id=qnbLGV9oFL)
