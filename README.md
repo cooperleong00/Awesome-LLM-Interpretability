@@ -104,8 +104,9 @@ An curated list of LLM Interpretability related material.
 * **Opening the AI black box: program synthesis via mechanistic interpretability** [[arxiv 2402]](http://arxiv.org/abs/2402.05110)
 * **An introduction to graphical tensor notation for mechanistic interpretability** [[arxiv 2402]](http://arxiv.org/abs/2402.01790)
 
-##### Evaluation
+##### Evaluation/Dataset/Benchmark
 
+* **Look Before You Leap: A Universal Emergent Decomposition of Retrieval Tasks in Language Models** [[arxiv 2312]](http://arxiv.org/abs/2312.10091)
 * **RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations** [[arxiv 2402]](https://arxiv.org/abs/2402.17700)
 
 #### Task Solving/Function/Ability
