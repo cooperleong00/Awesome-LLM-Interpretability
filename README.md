@@ -5,8 +5,9 @@ An curated list of LLM Interpretability related material.
 ## Tutorial
 
 * **Concrete Steps to Get Started in Transformer Mechanistic Interpretability** [[Neel Nanda's blog]](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
-
 * **Mechanistic Interpretability Quickstart Guide** [[Neel Nanda's blog]](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
+* **ARENA Mechanistic Interpretability Tutorials by Callum McDougall** [[website]](https://arena-ch1-transformers.streamlit.app/)
+* **200 Concrete Open Problems in Mechanistic Interpretability: Introduction by Neel Nanda** [[AlignmentForum]](https://www.alignmentforum.org/s/yivyHaCAmMJ3CqSyj)
 
 ## Library
 
@@ -95,12 +96,17 @@ An curated list of LLM Interpretability related material.
 ##### Visulization
 
 * **Interpreting Transformer's Attention Dynamic Memory and Visualizing the Semantic Information Flow of GPT** [[arxiv 2305]]([10.48550/arXiv.2305.13417](http://arxiv.org/abs/2305.13417)) [[github]](https://github.com/shacharKZ/Visualizing-the-Information-Flow-of-GPT)
+* **Sparse AutoEncoder Visulization** [[github]](https://github.com/callummcdougall/sae_vis)
 
 ##### Translation
 
 * **Tracr: Compiled Transformers as a Laboratory for Interpretability** [[arxiv 2301]](http://arxiv.org/abs/2301.05062)
 * **Opening the AI black box: program synthesis via mechanistic interpretability** [[arxiv 2402]](http://arxiv.org/abs/2402.05110)
 * **An introduction to graphical tensor notation for mechanistic interpretability** [[arxiv 2402]](http://arxiv.org/abs/2402.01790)
+
+##### Evaluation
+
+* **RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations** [[arxiv 2402]](https://arxiv.org/abs/2402.17700)
 
 #### Task Solving/Function/Ability
 
@@ -165,6 +171,7 @@ An curated list of LLM Interpretability related material.
 * **Unveiling A Core Linguistic Region in Large Language Models** [[arxiv 2310]](http://arxiv.org/abs/2310.14928)
 * **Exploring the Residual Stream of Transformers** [[arxiv 2312]](http://arxiv.org/abs/2312.12141)
 * **Explorations of Self-Repair in Language Models** [[arxiv 2302]](http://arxiv.org/abs/2402.15390)
+* **Massive Activations in Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.17762)
 
 ##### Attention
 
@@ -224,6 +231,7 @@ An curated list of LLM Interpretability related material.
 
 ##### Linearity
 
+* 🌟**Actually, Othello-GPT Has A Linear Emergent World Representation** [[Neel Nanda's blog]](https://www.neelnanda.io/mechanistic-interpretability/othello)
 * **Language Models Linearly Represent Sentiment** [[openreview]](https://openreview.net/forum?id=iGDWZFc7Ya)
 * **Language Models Represent Space and Time** [[openreview]](https://openreview.net/forum?id=jE8xbmvFin)
 * **The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets** [[openreview]](https://openreview.net/forum?id=CeJEfNKstt)
