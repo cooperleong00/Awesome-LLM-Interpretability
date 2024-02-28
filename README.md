@@ -191,6 +191,7 @@ An curated list of LLM Interpretability related material.
 ##### Neuron
 
 * 🌟**Toy Models of Superposition** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2022/toy_model/index.html)
+* **Polysemanticity and Capacity in Neural Networks** [[arxiv 2210]](http://arxiv.org/abs/2210.01892)
 * 🌟**Finding Neurons in a Haystack: Case Studies with Sparse Probing** [[TMLR 2023]](https://openreview.net/forum?id=JYs1R9IMJr)
 * **Neurons in Large Language Models: Dead, N-gram, Positional** [[arxiv 2309]](http://arxiv.org/abs/2309.04827)
 * **Universal Neurons in GPT2 Language Models** [[arxiv 2401]](http://arxiv.org/abs/2401.12181)
