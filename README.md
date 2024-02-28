@@ -122,7 +122,7 @@ A curated list of LLM Interpretability related material.
 * **How Large Language Models Implement Chain-of-Thought?** [[openreview]](https://openreview.net/forum?id=b2XfOm3RJa)
 * **Do Large Language Models Latently Perform Multi-Hop Reasoning?** [[arxiv 2402]](http://arxiv.org/abs/2402.16837)
 
-#### Function
+##### Function
 
 * 🌟**Interpretability in the wild: a circuit for indirect object identification in GPT-2 small** [[ICLR 2023]](https://openreview.net/forum?id=NpsVSN6o4ul)
 * **Entity Tracking in Language Models** [[ACL 2023]](https://aclanthology.org/2023.acl-long.213)
