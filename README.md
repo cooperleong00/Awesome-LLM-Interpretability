@@ -242,6 +242,9 @@ An curated list of LLM Interpretability related material.
 ##### Inference-Time Intervention
 
 * **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html) [[github]](https://github.com/likenneth/honest_llama)
+* **Activation Addition: Steering Language Models Without Optimization** [[arxiv 2308]](http://arxiv.org/abs/2308.10248)
+* **Self-Detoxifying Language Models via Toxification Reversal** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.269)
+* **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models** [[arxiv 2309]](https://arxiv.org/abs/2309.03883)
 * **Steering Llama 2 via Contrastive Activation Addition** [[arxiv 2312]](http://arxiv.org/abs/2312.06681)
 * **A Language Model's Guide Through Latent Space** [[arxiv 2402]](http://arxiv.org/abs/2402.14433)
 
