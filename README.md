@@ -171,6 +171,7 @@ An curated list of LLM Interpretability related material.
 * **The Hydra Effect: Emergent Self-repair in Language Model Computations** [[arxiv 2307]](https://arxiv.org/abs/2307.15771)
 * **Unveiling A Core Linguistic Region in Large Language Models** [[arxiv 2310]](http://arxiv.org/abs/2310.14928)
 * **Exploring the Residual Stream of Transformers** [[arxiv 2312]](http://arxiv.org/abs/2312.12141)
+* **Characterizing Large Language Model Geometry Solves Toxicity Detection and Generation** [[arxiv 2312]](https://arxiv.org/abs/2312.01648)
 * **Explorations of Self-Repair in Language Models** [[arxiv 2302]](http://arxiv.org/abs/2402.15390)
 * **Massive Activations in Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.17762)
 
@@ -230,6 +231,7 @@ An curated list of LLM Interpretability related material.
 * **Still No Lie Detector for Language Models: Probing Empirical and Conceptual Roadblocks** [[arxiv 2307]](http://arxiv.org/abs/2307.00175)
 * **Position Paper: Toward New Frameworks for Studying Model Representations** [[arxiv 2402]](http://arxiv.org/abs/2402.03855)
 * **How Large Language Models Encode Context Knowledge? A Layer-Wise Probing Study** [[arxiv 2402]](http://arxiv.org/abs/2402.16061)
+* **More than Correlation: Do Large Language Models Learn Causal Representations of Space** [[arxiv 2312]](https://arxiv.org/abs/2312.16257)
 
 ##### Linearity
 
@@ -238,6 +240,7 @@ An curated list of LLM Interpretability related material.
 * **Language Models Represent Space and Time** [[openreview]](https://openreview.net/forum?id=jE8xbmvFin)
 * **The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets** [[openreview]](https://openreview.net/forum?id=CeJEfNKstt)
 * **Linearity of Relation Decoding in Transformer Language Models** [[ICLR 2024]](https://openreview.net/forum?id=w7LU2s14kE)
+* **The Linear Representation Hypothesis and the Geometry of Large Language Models** [[arxiv 2311]](https://arxiv.org/abs/2311.03658)
 
 #### Application
 
@@ -247,8 +250,10 @@ An curated list of LLM Interpretability related material.
 * **Activation Addition: Steering Language Models Without Optimization** [[arxiv 2308]](http://arxiv.org/abs/2308.10248)
 * **Self-Detoxifying Language Models via Toxification Reversal** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.269)
 * **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models** [[arxiv 2309]](https://arxiv.org/abs/2309.03883)
+* **In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering** [[arxiv 211]](http://arxiv.org/abs/2311.06668)
 * **Steering Llama 2 via Contrastive Activation Addition** [[arxiv 2312]](http://arxiv.org/abs/2312.06681)
 * **A Language Model's Guide Through Latent Space** [[arxiv 2402]](http://arxiv.org/abs/2402.14433)
+* **Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment** [[arxiv 2311]](https://arxiv.org/abs/2311.09433)
 
 ##### Knowledge Editing
 
@@ -259,3 +264,4 @@ An curated list of LLM Interpretability related material.
 
 * **The Internal State of an LLM Knows When It's Lying** [[EMNLP 2023 Findings]](https://arxiv.org/abs/2304.13734)
 * **Do Androids Know They're Only Dreaming of Electric Sheep?** [[arxiv 2312]](https://arxiv.org/abs/2312.17249)
+* **INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection** [[ICLR 2024]](https://openreview.net/forum?id=Zj12nzlQbz)
