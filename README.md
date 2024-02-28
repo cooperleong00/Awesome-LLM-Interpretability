@@ -22,6 +22,7 @@ An curated list of LLM Interpretability related material.
 * **Neuron-level Interpretation of Deep NLP Models: A Survey** [[TACL 2022]](https://aclanthology.org/2022.tacl-1.74)
 
 * **Explainability for Large Language Models: A Survey** [[TIST 2024]](https://dl.acm.org/doi/10.1145/3639372) [[arxiv 2309]](https://arxiv.org/abs/2309.01029)
+* **Opening the Black Box of Large Language Models: Two Views on Holistic Interpretability** [[arxiv]](http://arxiv.org/abs/2402.10688)
 
 *Note: These Alignment surveys discuss the relation between Interpretability and LLM Alignment.*
 
@@ -34,7 +35,6 @@ An curated list of LLM Interpretability related material.
 * **Neel Nanda's Channel** [[Youtube]](https://www.youtube.com/@neelnanda2469)
 * **Chris Olah - Looking Inside Neural Networks with Mechanistic Interpretability** [[Youtube]](https://www.youtube.com/watch?v=2Rdp9GvcYOE)
 * **Concrete Open Problems in Mechanistic Interpretability: Neel Nanda at SERI MATS** [[Youtube]](https://www.youtube.com/watch?v=FnNTbqSG8w4)
-
 * **BlackboxNLP's Channel** [[Youtube]](https://www.youtube.com/@blackboxnlp)
 
 ## Paper & Blog
@@ -45,12 +45,9 @@ An curated list of LLM Interpretability related material.
 * **AI Alignment Forum** [[forum]](https://www.alignmentforum.org/)
 * **Lesswrong** [[forum]](https://www.lesswrong.com/)
 * **Neel Nanda** [[blog]](https://www.neelnanda.io/) [[google scholar]](https://scholar.google.com/citations?user=GLnX3MkAAAAJ)
-* **Jacob Steinhardt** [[google scholar]](https://scholar.google.com/citations?hl=en&user=LKv32bgAAAAJ)
-
 * **Gor meva** [[google scholar]](https://scholar.google.com/citations?user=GxpQbSkAAAAJ)
-
 * **David Bau** [[google scholar]](https://scholar.google.com/citations?hl=en&user=CYI6cKgAAAAJ)
-
+* **Jacob Steinhardt** [[google scholar]](https://scholar.google.com/citations?hl=en&user=LKv32bgAAAAJ)
 * **Yonatan Belinkov** [[google scholar]](https://scholar.google.com/citations?user=K-6ujU4AAAAJ)
 
 ### By Topic
@@ -60,6 +57,7 @@ An curated list of LLM Interpretability related material.
 ##### General
 
 * 🌟**A mathematical framework for transformer circuits** [[blog]](https://transformer-circuits.pub/2021/framework/index.html)
+* **Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models** [[arxiv]](http://arxiv.org/abs/2401.06102)
 
 ##### Embedding Projection
 
@@ -80,6 +78,7 @@ An curated list of LLM Interpretability related material.
 * **Interpretability at Scale: Identifying Causal Mechanisms in Alpaca** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f6a8b109d4d4fd64c75e94aaf85d9697-Abstract-Conference.html)
 * **Towards Best Practices of Activation Patching in Language Models: Metrics and Methods** [[ICLR 2024]](https://openreview.net/forum?id=Hf17y6u9BC)
 * **Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching** [[ICLR 2024]](https://openreview.net/forum?id=Ebt7JgMHv1)
+* **CausalGym: Benchmarking causal interpretability methods on linguistic tasks** [[arxiv 2402]](http://arxiv.org/abs/2402.12560)
 
 
 ##### Automation
@@ -100,6 +99,8 @@ An curated list of LLM Interpretability related material.
 ##### Translation
 
 * **Tracr: Compiled Transformers as a Laboratory for Interpretability** [[arxiv 2301]](http://arxiv.org/abs/2301.05062)
+* **Opening the AI black box: program synthesis via mechanistic interpretability** [[arxiv 2402]](http://arxiv.org/abs/2402.05110)
+* **An introduction to graphical tensor notation for mechanistic interpretability** [[arxiv 2402]](http://arxiv.org/abs/2402.01790)
 
 #### Task Solving/Function/Ability
 
@@ -111,24 +112,31 @@ An curated list of LLM Interpretability related material.
 
 * **Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.299)
 * **How Large Language Models Implement Chain-of-Thought?** [[openreview]](https://openreview.net/forum?id=b2XfOm3RJa)
+* **Do Large Language Models Latently Perform Multi-Hop Reasoning?** [[arxiv 2402]](http://arxiv.org/abs/2402.16837)
 
 #### Function
 
-* **Interpretability in the wild: a circuit for indirect object identification in GPT-2 small** [[ICLR 2023]](https://openreview.net/forum?id=NpsVSN6o4ul)
-* **How do Language Models Bind Entities in Context?** [[ICLR 2024]](https://openreview.net/forum?id=zb3b6oKO77)
-* **How Language Models Learn Context-Free Grammars?** [[openreview]](https://openreview.net/forum?id=qnbLGV9oFL)
+* 🌟**Interpretability in the wild: a circuit for indirect object identification in GPT-2 small** [[ICLR 2023]](https://openreview.net/forum?id=NpsVSN6o4ul)
+* **Entity Tracking in Language Models** [[ACL 2023]](https://aclanthology.org/2023.acl-long.213)
 * **How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/efbba7719cc5172d175240f24be11280-Abstract-Conference.html)
+* **Can Transformers Learn to Solve Problems Recursively?** [[arxiv 2305]](http://arxiv.org/abs/2305.14699)
 * **Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla** [[arxiv 2307]](http://arxiv.org/abs/2307.09458)
 * **Forbidden Facts: An Investigation of Competing Objectives in Llama-2** [[arxiv 2312]](http://arxiv.org/abs/2312.08793)
+* **How do Language Models Bind Entities in Context?** [[ICLR 2024]](https://openreview.net/forum?id=zb3b6oKO77)
+* **How Language Models Learn Context-Free Grammars?** [[openreview]](https://openreview.net/forum?id=qnbLGV9oFL)
+* 🌟**A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity** [[arxiv 2401]](http://arxiv.org/abs/2401.01967)
+* **Do Llamas Work in English? On the Latent Language of Multilingual Transformers** [[arxiv 2402]](http://arxiv.org/abs/2402.10588)
 
 ##### Arithmetic Ability
 
-* **Progress measures for grokking via mechanistic interpretability** [[ICLR 2023]](https://openreview.net/forum?id=9XFSbDPmdW)
+* 🌟**Progress measures for grokking via mechanistic interpretability** [[ICLR 2023]](https://openreview.net/forum?id=9XFSbDPmdW)
+* 🌟**The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks** [[NIPS 2024]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/56cbfbf49937a0873d451343ddc8c57d-Abstract-Conference.html)
 * **Interpreting the Inner Mechanisms of Large Language Models in Mathematical Addition** [[openreview]](https://openreview.net/forum?id=VpCqrMMGVm)
 * **Arithmetic with Language Models: from Memorization to Computation** [[openreview]](https://openreview.net/forum?id=YxzEPTH4Ny)
 * **Carrying over Algorithm in Transformers** [[openreview]](https://openreview.net/forum?id=t3gOYtv1xV)
 * **A simple and interpretable model of grokking modular arithmetic tasks** [[openreview]](https://openreview.net/forum?id=0ZUKLCxwBo)
 * **Understanding Addition in Transformers** [[ICLR 2024]](https://openreview.net/forum?id=rIx1YXVWZb)
+* **Increasing Trust in Language Models through the Reuse of Verified Circuits** [[arxiv 2402]](http://arxiv.org/abs/2402.02619)
 
 ##### In-context Learning
 
@@ -137,6 +145,9 @@ An curated list of LLM Interpretability related material.
 * **LLMs Represent Contextual Tasks as Compact Function Vectors** [[ICLR 2024]](https://openreview.net/forum?id=AwyxtyMwaG)
 * **Where Does In-context Machine Translation Happen in Large Language Models?** [[openreview]](https://openreview.net/forum?id=3i7iNGxw6r)
 * **In-Context Learning in Large Language Models: A Neuroscience-inspired Analysis of Representations** [[openreview]](https://openreview.net/forum?id=UEdS2lIgfY)
+* **Analyzing Task-Encoding Tokens in Large Language Models** [[arxiv 2401]](http://arxiv.org/abs/2401.11323)
+* **How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning** [[arxiv 2402]](http://arxiv.org/abs/2402.02872)
+* **Parallel Structures in Pre-training Data Yield In-Context Learning** [[arxiv 2402]](http://arxiv.org/abs/2402.12530)
 
 ##### Factual Knowledge
 
@@ -144,13 +155,16 @@ An curated list of LLM Interpretability related material.
 * **Summing Up the Facts: Additive Mechanisms behind Factual Recall in LLMs** [[openreview]](https://openreview.net/forum?id=P2gnDEHGu3)
 * **A Mechanism for Solving Relational Tasks in Transformer Language Models** [[openreview]](https://openreview.net/forum?id=ZmzLrl8nTa)
 * **Overthinking the Truth: Understanding how Language Models Process False Demonstrations** [[ICLR 2024 spotlight]](https://openreview.net/forum?id=Tigr1kMDZy)
+* 🌟**Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level** [[AlignmentForum 2312]](https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB)
 
 #### Component
 
 ##### General
 
 * **The Hydra Effect: Emergent Self-repair in Language Model Computations** [[arxiv 2307]](https://arxiv.org/abs/2307.15771)
+* **Unveiling A Core Linguistic Region in Large Language Models** [[arxiv 2310]](http://arxiv.org/abs/2310.14928)
 * **Exploring the Residual Stream of Transformers** [[arxiv 2312]](http://arxiv.org/abs/2312.12141)
+* **Explorations of Self-Repair in Language Models** [[arxiv 2302]](http://arxiv.org/abs/2402.15390)
 
 ##### Attention
 
@@ -159,6 +173,7 @@ An curated list of LLM Interpretability related material.
 * **On the Role of Attention in Prompt-tuning** [[ICML 2023]](https://openreview.net/forum?id=qorOnDor89)
 * **Copy Suppression: Comprehensively Understanding an Attention Head** [[ICLR 2024]](https://openreview.net/forum?id=g8oaZRhDcf)
 * **Successor Heads: Recurring, Interpretable Attention Heads In The Wild** [[ICLR 2024]](https://openreview.net/forum?id=kvcbV8KQsi)
+* **A phase transition between positional and semantic learning in a solvable model of dot-product attention** [[arxiv 2024]](http://arxiv.org/abs/2402.03902)
 
 ##### MLP/FFN
 
@@ -168,34 +183,44 @@ An curated list of LLM Interpretability related material.
 
 ##### Neuron
 
+* 🌟**Toy Models of Superposition** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2022/toy_model/index.html)
 * 🌟**Finding Neurons in a Haystack: Case Studies with Sparse Probing** [[TMLR 2023]](https://openreview.net/forum?id=JYs1R9IMJr)
 * **Neurons in Large Language Models: Dead, N-gram, Positional** [[arxiv 2309]](http://arxiv.org/abs/2309.04827)
+* **Universal Neurons in GPT2 Language Models** [[arxiv 2401]](http://arxiv.org/abs/2401.12181)
+* **Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models** [[arxiv 2402]](http://arxiv.org/abs/2402.16438)
 
 #### Learning Dynamics
 
 ##### Phase Transition/Grokking
 
-* **Progress measures for grokking via mechanistic interpretability** [[ICLR 2023]](https://openreview.net/forum?id=9XFSbDPmdW)
+* 🌟**Progress measures for grokking via mechanistic interpretability** [[ICLR 2023]](https://openreview.net/forum?id=9XFSbDPmdW)
 
 * **A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations** [[ICML 2023]](https://openreview.net/forum?id=jCOrkuUpss)
 * 🌟**The Mechanistic Basis of Data Dependence and Abrupt Learning in an In-Context Classification Task** [[ICLR 2024 oral]](https://openreview.net/forum?id=aN4Jf6Cx69)
   * Highest scores at ICLR 2024: 10, 10, 8, 8. And by one author only!
 * **Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs** [[ICLR 2024 spotlight]](https://openreview.net/forum?id=MO5PiKHELW)
 * **A simple and interpretable model of grokking modular arithmetic tasks** [[openreview]](https://openreview.net/forum?id=0ZUKLCxwBo)
+* **Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition** [[arxiv 2402]](http://arxiv.org/abs/2402.15175)
 
 ##### Fine-tuning
 
+* **Studying Large Language Model Generalization with Influence Functions** [[arxiv 2308]](http://arxiv.org/abs/2308.03296)
 * **Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks** [[ICLR 2024]](https://openreview.net/forum?id=A0HKeKl4Nl)
+* **Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking** [[ICLR 2024]](https://openreview.net/forum?id=8sKcAWOf2D)
+* **The Hidden Space of Transformer Language Adapters** [[arxiv 2402]](http://arxiv.org/abs/2402.13137)
 
 #### Feature Representation/Probing-based
 
 ##### General
 
+* **Implicit Representations of Meaning in Neural Language Models** [[ACL 2021]](https://aclanthology.org/2021.acl-long.143)
 * **All Roads Lead to Rome? Exploring the Invariance of Transformers' Representations** [[arxiv 2305]](http://arxiv.org/abs/2305.14555)
 * **Observable Propagation: Uncovering Feature Vectors in Transformers** [[openreview]](https://openreview.net/forum?id=sNWQUTkDmA)
 * **In-Context Learning in Large Language Models: A Neuroscience-inspired Analysis of Representations** [[openreview]](https://openreview.net/forum?id=UEdS2lIgfY)
 * **Challenges with unsupervised LLM knowledge discovery** [[arxiv 2312]](https://arxiv.org/abs/2312.10029)
 * **Still No Lie Detector for Language Models: Probing Empirical and Conceptual Roadblocks** [[arxiv 2307]](http://arxiv.org/abs/2307.00175)
+* **Position Paper: Toward New Frameworks for Studying Model Representations** [[arxiv 2402]](http://arxiv.org/abs/2402.03855)
+* **How Large Language Models Encode Context Knowledge? A Layer-Wise Probing Study** [[arxiv 2402]](http://arxiv.org/abs/2402.16061)
 
 ##### Linearity
 
@@ -210,6 +235,7 @@ An curated list of LLM Interpretability related material.
 
 * **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html) [[github]](https://github.com/likenneth/honest_llama)
 * **Steering Llama 2 via Contrastive Activation Addition** [[arxiv 2312]](http://arxiv.org/abs/2312.06681)
+* **A Language Model's Guide Through Latent Space** [[arxiv 2402]](http://arxiv.org/abs/2402.14433)
 
 ##### Knowledge Editing
 
