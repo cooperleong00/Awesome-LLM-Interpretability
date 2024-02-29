@@ -81,7 +81,6 @@ A curated list of LLM Interpretability related material.
 * **Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching** [[ICLR 2024]](https://openreview.net/forum?id=Ebt7JgMHv1)
 * **CausalGym: Benchmarking causal interpretability methods on linguistic tasks** [[arxiv 2402]](http://arxiv.org/abs/2402.12560)
 
-
 ##### Automation
 
 * **Towards Automated Circuit Discovery for Mechanistic Interpretability** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/34e1dbe95d34d7ebaf99b9bcaeb5b2be-Abstract-Conference.html)
@@ -121,6 +120,8 @@ A curated list of LLM Interpretability related material.
 * **Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.299)
 * **How Large Language Models Implement Chain-of-Thought?** [[openreview]](https://openreview.net/forum?id=b2XfOm3RJa)
 * **Do Large Language Models Latently Perform Multi-Hop Reasoning?** [[arxiv 2402]](http://arxiv.org/abs/2402.16837)
+* **How to think step-by-step: A mechanistic understanding of chain-of-thought reasoning** [[arxiv 2402]](https://arxiv.org/abs/2402.18312)
+* **Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning** [[arxiv 2402]](https://arxiv.org/abs/2402.18344)
 
 ##### Function
 
@@ -165,6 +166,7 @@ A curated list of LLM Interpretability related material.
 * **A Mechanism for Solving Relational Tasks in Transformer Language Models** [[openreview]](https://openreview.net/forum?id=ZmzLrl8nTa)
 * **Overthinking the Truth: Understanding how Language Models Process False Demonstrations** [[ICLR 2024 spotlight]](https://openreview.net/forum?id=Tigr1kMDZy)
 * 🌟**Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level** [[AlignmentForum 2312]](https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB)
+* **Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.18154)
 
 #### Component
 
@@ -185,6 +187,7 @@ A curated list of LLM Interpretability related material.
 * **Copy Suppression: Comprehensively Understanding an Attention Head** [[ICLR 2024]](https://openreview.net/forum?id=g8oaZRhDcf)
 * **Successor Heads: Recurring, Interpretable Attention Heads In The Wild** [[ICLR 2024]](https://openreview.net/forum?id=kvcbV8KQsi)
 * **A phase transition between positional and semantic learning in a solvable model of dot-product attention** [[arxiv 2024]](http://arxiv.org/abs/2402.03902)
+
 
 ##### MLP/FFN
 
@@ -234,6 +237,7 @@ A curated list of LLM Interpretability related material.
 * **Position Paper: Toward New Frameworks for Studying Model Representations** [[arxiv 2402]](http://arxiv.org/abs/2402.03855)
 * **How Large Language Models Encode Context Knowledge? A Layer-Wise Probing Study** [[arxiv 2402]](http://arxiv.org/abs/2402.16061)
 * **More than Correlation: Do Large Language Models Learn Causal Representations of Space** [[arxiv 2312]](https://arxiv.org/abs/2312.16257)
+* Do Large Language Models Mirror Cognitive Language Processing? [[arxiv 2402]](https://arxiv.org/abs/2402.18023)
 
 ##### Linearity
 
@@ -243,6 +247,7 @@ A curated list of LLM Interpretability related material.
 * **The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets** [[openreview]](https://openreview.net/forum?id=CeJEfNKstt)
 * **Linearity of Relation Decoding in Transformer Language Models** [[ICLR 2024]](https://openreview.net/forum?id=w7LU2s14kE)
 * **The Linear Representation Hypothesis and the Geometry of Large Language Models** [[arxiv 2311]](https://arxiv.org/abs/2311.03658)
+* **Language Models Represent Beliefs of Self and Others** [[arxiv 2402]](https://arxiv.org/abs/2402.18496)
 
 #### Application
 
@@ -267,3 +272,5 @@ A curated list of LLM Interpretability related material.
 * **The Internal State of an LLM Knows When It's Lying** [[EMNLP 2023 Findings]](https://arxiv.org/abs/2304.13734)
 * **Do Androids Know They're Only Dreaming of Electric Sheep?** [[arxiv 2312]](https://arxiv.org/abs/2312.17249)
 * **INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection** [[ICLR 2024]](https://openreview.net/forum?id=Zj12nzlQbz)
+* **TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space** [[arxiv 2402]](https://arxiv.org/abs/2402.17811)
+* **Characterizing Truthfulness in Large Language Model Generations with Local Intrinsic Dimension** [[arxiv 2402]](https://arxiv.org/abs/2402.18048)
