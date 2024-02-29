@@ -139,7 +139,7 @@ A curated list of LLM Interpretability related material.
 ##### Arithmetic Ability
 
 * 🌟**Progress measures for grokking via mechanistic interpretability** [[ICLR 2023]](https://openreview.net/forum?id=9XFSbDPmdW)
-* 🌟**The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks** [[NIPS 2024]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/56cbfbf49937a0873d451343ddc8c57d-Abstract-Conference.html)
+* 🌟**The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/56cbfbf49937a0873d451343ddc8c57d-Abstract-Conference.html)
 * **Interpreting the Inner Mechanisms of Large Language Models in Mathematical Addition** [[openreview]](https://openreview.net/forum?id=VpCqrMMGVm)
 * **Arithmetic with Language Models: from Memorization to Computation** [[openreview]](https://openreview.net/forum?id=YxzEPTH4Ny)
 * **Carrying over Algorithm in Transformers** [[openreview]](https://openreview.net/forum?id=t3gOYtv1xV)
