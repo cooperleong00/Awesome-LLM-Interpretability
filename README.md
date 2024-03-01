@@ -9,12 +9,18 @@ A curated list of LLM Interpretability related material.
 * **ARENA Mechanistic Interpretability Tutorials by Callum McDougall** [[website]](https://arena-ch1-transformers.streamlit.app/)
 * **200 Concrete Open Problems in Mechanistic Interpretability: Introduction by Neel Nanda** [[AlignmentForum]](https://www.alignmentforum.org/s/yivyHaCAmMJ3CqSyj)
 
-## Library
+## Code
+
+### Library
 
 * **TransformerLens** [[github]](https://github.com/neelnanda-io/TransformerLens)
 * **CircuitsVis** [[github]](https://github.com/alan-cooney/CircuitsVis)
 * **baukit** [[github]](https://github.com/davidbau/baukit)
   * Contains some methods for tracing and editing internal activations in a network.
+
+### Codebase
+
+* **mamba interpretability** [[github]](https://github.com/Phylliida/mamba_interp)
 
 ## Survey
 
@@ -43,6 +49,7 @@ A curated list of LLM Interpretability related material.
 ### By Source
 
 * **Transformer Circuits Thread** [[blog]](https://transformer-circuits.pub/)
+* **BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP** [[workshop]](https://aclanthology.org/venues/blackboxnlp/)
 * **AI Alignment Forum** [[forum]](https://www.alignmentforum.org/)
 * **Lesswrong** [[forum]](https://www.lesswrong.com/)
 * **Neel Nanda** [[blog]](https://www.neelnanda.io/) [[google scholar]](https://scholar.google.com/citations?user=GLnX3MkAAAAJ)
@@ -162,11 +169,19 @@ A curated list of LLM Interpretability related material.
 ##### Factual Knowledge
 
 * 🌟**Dissecting Recall of Factual Associations in Auto-Regressive Language Models** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.751)
+* **Characterizing Mechanisms for Factual Recall in Language Models** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.615/)
 * **Summing Up the Facts: Additive Mechanisms behind Factual Recall in LLMs** [[openreview]](https://openreview.net/forum?id=P2gnDEHGu3)
 * **A Mechanism for Solving Relational Tasks in Transformer Language Models** [[openreview]](https://openreview.net/forum?id=ZmzLrl8nTa)
 * **Overthinking the Truth: Understanding how Language Models Process False Demonstrations** [[ICLR 2024 spotlight]](https://openreview.net/forum?id=Tigr1kMDZy)
 * 🌟**Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level** [[AlignmentForum 2312]](https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB)
 * **Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.18154)
+
+##### Multilingual/Crosslingual
+
+* **Do Llamas Work in English? On the Latent Language of Multilingual Transformers** [[arxiv 2402]](http://arxiv.org/abs/2402.10588)
+* **Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models** [[arxiv 2402]](http://arxiv.org/abs/2402.16438)
+* **How do Large Language Models Handle Multilingualism?** [[arxiv 2402]](https://arxiv.org/abs/2402.18815)
+
 
 #### Component
 
@@ -178,6 +193,7 @@ A curated list of LLM Interpretability related material.
 * **Characterizing Large Language Model Geometry Solves Toxicity Detection and Generation** [[arxiv 2312]](https://arxiv.org/abs/2312.01648)
 * **Explorations of Self-Repair in Language Models** [[arxiv 2302]](http://arxiv.org/abs/2402.15390)
 * **Massive Activations in Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.17762)
+* **Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions** [[arxiv 2402]](https://arxiv.org/abs/2402.15055)
 
 ##### Attention
 
@@ -203,6 +219,7 @@ A curated list of LLM Interpretability related material.
 * **Neurons in Large Language Models: Dead, N-gram, Positional** [[arxiv 2309]](http://arxiv.org/abs/2309.04827)
 * **Universal Neurons in GPT2 Language Models** [[arxiv 2401]](http://arxiv.org/abs/2401.12181)
 * **Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models** [[arxiv 2402]](http://arxiv.org/abs/2402.16438)
+* **How do Large Language Models Handle Multilingualism?** [[arxiv 2402]](https://arxiv.org/abs/2402.18815)
 
 #### Learning Dynamics
 
@@ -216,6 +233,8 @@ A curated list of LLM Interpretability related material.
 * **Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs** [[ICLR 2024 spotlight]](https://openreview.net/forum?id=MO5PiKHELW)
 * **A simple and interpretable model of grokking modular arithmetic tasks** [[openreview]](https://openreview.net/forum?id=0ZUKLCxwBo)
 * **Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition** [[arxiv 2402]](http://arxiv.org/abs/2402.15175)
+* **Interpreting Grokked Transformers in Complex Modular Arithmetic** [[arxiv 2402]](https://arxiv.org/abs/2402.16726)
+* **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19465)
 
 ##### Fine-tuning
 
@@ -237,7 +256,8 @@ A curated list of LLM Interpretability related material.
 * **Position Paper: Toward New Frameworks for Studying Model Representations** [[arxiv 2402]](http://arxiv.org/abs/2402.03855)
 * **How Large Language Models Encode Context Knowledge? A Layer-Wise Probing Study** [[arxiv 2402]](http://arxiv.org/abs/2402.16061)
 * **More than Correlation: Do Large Language Models Learn Causal Representations of Space** [[arxiv 2312]](https://arxiv.org/abs/2312.16257)
-* Do Large Language Models Mirror Cognitive Language Processing? [[arxiv 2402]](https://arxiv.org/abs/2402.18023)
+* **Do Large Language Models Mirror Cognitive Language Processing?** [[arxiv 2402]](https://arxiv.org/abs/2402.18023)
+* **On the Scaling Laws of Geographical Representation in Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19406)
 
 ##### Linearity
 
@@ -274,3 +294,4 @@ A curated list of LLM Interpretability related material.
 * **INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection** [[ICLR 2024]](https://openreview.net/forum?id=Zj12nzlQbz)
 * **TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space** [[arxiv 2402]](https://arxiv.org/abs/2402.17811)
 * **Characterizing Truthfulness in Large Language Model Generations with Local Intrinsic Dimension** [[arxiv 2402]](https://arxiv.org/abs/2402.18048)
+* **Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19103)
