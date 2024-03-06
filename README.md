@@ -216,8 +216,10 @@ A curated list of LLM Interpretability related material.
 ##### Neuron
 
 * 🌟**Toy Models of Superposition** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2022/toy_model/index.html)
+* **Knowledge Neurons in Pretrained Transformers** [[ACL 2022]](https://aclanthology.org/2022.acl-long.581)
 * **Polysemanticity and Capacity in Neural Networks** [[arxiv 2210]](http://arxiv.org/abs/2210.01892)
 * 🌟**Finding Neurons in a Haystack: Case Studies with Sparse Probing** [[TMLR 2023]](https://openreview.net/forum?id=JYs1R9IMJr)
+* **DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.174)
 * **Neurons in Large Language Models: Dead, N-gram, Positional** [[arxiv 2309]](http://arxiv.org/abs/2309.04827)
 * **Universal Neurons in GPT2 Language Models** [[arxiv 2401]](http://arxiv.org/abs/2401.12181)
 * **Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models** [[arxiv 2402]](http://arxiv.org/abs/2402.16438)
@@ -288,10 +290,27 @@ A curated list of LLM Interpretability related material.
 * **A Language Model's Guide Through Latent Space** [[arxiv 2402]](http://arxiv.org/abs/2402.14433)
 * **Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment** [[arxiv 2311]](https://arxiv.org/abs/2311.09433)
 
-##### Knowledge Editing
+##### Knowledge/Model Editing
 
 * **Locating and Editing Factual Associations in GPT** (*ROME*) [[NIPS 2022]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6f1d43d5a82a37e89b0665b33bf3a182-Abstract-Conference.html) [[github]](https://github.com/kmeng01/rome)
+* **Memory-Based Model Editing at Scale** [[ICML 2022]](https://proceedings.mlr.press/v162/mitchell22a.html)
+* **Editing models with task arithmetic** [[ICLR 2023]](https://openreview.net/forum?id=6t0Kwf8-jrj)
+* **Mass-Editing Memory in a Transformer** [[ICLR 2023]](https://openreview.net/forum?id=MkbcAHIYgyS)
+* **Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark** [[ACL 2023 Findings]](https://aclanthology.org/2023.findings-acl.733)
+* **Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** [[ACL 2023]](https://aclanthology.org/2023.acl-long.300)
+* **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3927bbdcf0e8d1fa8aa23c26f358a281-Abstract-Conference.html)
 * **Inspecting and Editing Knowledge Representations in Language Models** [[arxiv 2304]](http://arxiv.org/abs/2304.00740) [[github]](https://github.com/evandez/REMEDI)
+* **Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models** [[EACL 2023]](https://aclanthology.org/2023.eacl-main.199)
+* **Editing Common Sense in Transformers** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.511)
+* **DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.174)
+* **MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.971)
+* **PMET: Precise Model Editing in a Transformer** [[arxiv 2308]](http://arxiv.org/abs/2308.08742)
+* **Untying the Reversal Curse via Bidirectional Language Model Editing** [[arxiv 2310]](http://arxiv.org/abs/2310.10322)
+* **Unveiling the Pitfalls of Knowledge Editing for Large Language Models** [[ICLR 2024]](https://openreview.net/forum?id=fNktD3ib16)
+* **A Comprehensive Study of Knowledge Editing for Large Language Models** [[arxiv 2401]](http://arxiv.org/abs/2401.01286)
+* **Trace and Edit Relation Associations in GPT** [[arxiv 2401]](http://arxiv.org/abs/2401.02976)
+* **Model Editing with Canonical Examples** [[arxiv 2402]](https://arxiv.org/abs/2402.06155)
+* **Updating Language Models with Unstructured Facts: Towards Practical Knowledge Editing** [[arxiv 2402]](http://arxiv.org/abs/2402.18909)
 
 ##### Hallucination
 
