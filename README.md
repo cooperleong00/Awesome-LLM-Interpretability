@@ -225,10 +225,14 @@ A curated list of LLM Interpretability related material.
 
 #### Learning Dynamics
 
+##### General
+
+* **JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention** [[ICLR 2024]](https://openreview.net/forum?id=LbJqRGNYCf)
+* **Learning Associative Memories with Gradient Descent** [[arxiv 2402]](https://arxiv.org/abs/2402.18724)
+
 ##### Phase Transition/Grokking
 
 * 🌟**Progress measures for grokking via mechanistic interpretability** [[ICLR 2023]](https://openreview.net/forum?id=9XFSbDPmdW)
-
 * **A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations** [[ICML 2023]](https://openreview.net/forum?id=jCOrkuUpss)
 * 🌟**The Mechanistic Basis of Data Dependence and Abrupt Learning in an In-Context Classification Task** [[ICLR 2024 oral]](https://openreview.net/forum?id=aN4Jf6Cx69)
   * Highest scores at ICLR 2024: 10, 10, 8, 8. And by one author only!
