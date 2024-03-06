@@ -192,9 +192,10 @@ A curated list of LLM Interpretability related material.
 * **Unveiling A Core Linguistic Region in Large Language Models** [[arxiv 2310]](http://arxiv.org/abs/2310.14928)
 * **Exploring the Residual Stream of Transformers** [[arxiv 2312]](http://arxiv.org/abs/2312.12141)
 * **Characterizing Large Language Model Geometry Solves Toxicity Detection and Generation** [[arxiv 2312]](https://arxiv.org/abs/2312.01648)
-* **Explorations of Self-Repair in Language Models** [[arxiv 2302]](http://arxiv.org/abs/2402.15390)
+* **Explorations of Self-Repair in Language Models** [[arxiv 2402]](http://arxiv.org/abs/2402.15390)
 * **Massive Activations in Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.17762)
 * **Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions** [[arxiv 2402]](https://arxiv.org/abs/2402.15055)
+* **Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics** [[arxiv 2403]](https://arxiv.org/abs/2403.01509)
 
 ##### Attention
 
@@ -296,3 +297,4 @@ A curated list of LLM Interpretability related material.
 * **TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space** [[arxiv 2402]](https://arxiv.org/abs/2402.17811)
 * **Characterizing Truthfulness in Large Language Model Generations with Local Intrinsic Dimension** [[arxiv 2402]](https://arxiv.org/abs/2402.18048)
 * **Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19103)
+* **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** [[arxiv 2403]](http://arxiv.org/abs/2403.01548)
