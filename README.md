@@ -160,6 +160,8 @@ A curated list of LLM Interpretability related material.
 
 * 🌟**In-context learning and induction heads**
 * **In-Context Learning Creates Task Vectors** [[EMNLP 2023 Findings]](https://aclanthology.org/2023.findings-emnlp.624)
+* **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.609)
+  * EMNLP 2023 best paper
 * **LLMs Represent Contextual Tasks as Compact Function Vectors** [[ICLR 2024]](https://openreview.net/forum?id=AwyxtyMwaG)
 * **Where Does In-context Machine Translation Happen in Large Language Models?** [[openreview]](https://openreview.net/forum?id=3i7iNGxw6r)
 * **In-Context Learning in Large Language Models: A Neuroscience-inspired Analysis of Representations** [[openreview]](https://openreview.net/forum?id=UEdS2lIgfY)
@@ -196,6 +198,7 @@ A curated list of LLM Interpretability related material.
 * **Massive Activations in Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.17762)
 * **Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions** [[arxiv 2402]](https://arxiv.org/abs/2402.15055)
 * **Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics** [[arxiv 2403]](https://arxiv.org/abs/2403.01509)
+* **The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.03942)
 
 ##### Attention
 
@@ -276,6 +279,7 @@ A curated list of LLM Interpretability related material.
 * **Linearity of Relation Decoding in Transformer Language Models** [[ICLR 2024]](https://openreview.net/forum?id=w7LU2s14kE)
 * **The Linear Representation Hypothesis and the Geometry of Large Language Models** [[arxiv 2311]](https://arxiv.org/abs/2311.03658)
 * **Language Models Represent Beliefs of Self and Others** [[arxiv 2402]](https://arxiv.org/abs/2402.18496)
+* **On the Origins of Linear Representations in Large Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.03867)
 
 #### Application
 
