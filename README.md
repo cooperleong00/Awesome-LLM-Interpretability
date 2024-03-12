@@ -168,6 +168,7 @@ A curated list of LLM Interpretability related material.
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.609)
   * EMNLP 2023 best paper
 * **LLMs Represent Contextual Tasks as Compact Function Vectors** [[ICLR 2024]](https://openreview.net/forum?id=AwyxtyMwaG)
+* **Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions** [[ICLR 2024]](https://openreview.net/forum?id=ekeyCgeRfC)
 * **Where Does In-context Machine Translation Happen in Large Language Models?** [[openreview]](https://openreview.net/forum?id=3i7iNGxw6r)
 * **In-Context Learning in Large Language Models: A Neuroscience-inspired Analysis of Representations** [[openreview]](https://openreview.net/forum?id=UEdS2lIgfY)
 * **Analyzing Task-Encoding Tokens in Large Language Models** [[arxiv 2401]](http://arxiv.org/abs/2401.11323)
