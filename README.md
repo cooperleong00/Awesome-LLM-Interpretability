@@ -14,9 +14,13 @@ A curated list of LLM Interpretability related material.
 ### Library
 
 * **TransformerLens** [[github]](https://github.com/neelnanda-io/TransformerLens)
+  * A library for mechanistic interpretability of GPT-style language models
 * **CircuitsVis** [[github]](https://github.com/alan-cooney/CircuitsVis)
+  * Mechanistic Interpretability visualizations
 * **baukit** [[github]](https://github.com/davidbau/baukit)
   * Contains some methods for tracing and editing internal activations in a network.
+* **transformer-debugger** [[github]](https://github.com/openai/transformer-debugger)
+  * Transformer Debugger (TDB) is a tool developed by OpenAI's Superalignment team with the goal of supporting investigations into specific behaviors of small language models. The tool combines automated interpretability techniques with sparse autoencoders.
 
 ### Codebase
 
@@ -86,6 +90,7 @@ A curated list of LLM Interpretability related material.
 * **Interpretability at Scale: Identifying Causal Mechanisms in Alpaca** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f6a8b109d4d4fd64c75e94aaf85d9697-Abstract-Conference.html)
 * **Towards Best Practices of Activation Patching in Language Models: Metrics and Methods** [[ICLR 2024]](https://openreview.net/forum?id=Hf17y6u9BC)
 * **Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching** [[ICLR 2024]](https://openreview.net/forum?id=Ebt7JgMHv1)
+  * **A Reply to Makelov et al. (2023)'s "Interpretability Illusion" Arguments** [[arxiv 2401]](https://arxiv.org/abs/2401.12631)
 * **CausalGym: Benchmarking causal interpretability methods on linguistic tasks** [[arxiv 2402]](http://arxiv.org/abs/2402.12560)
 
 ##### Automation
@@ -184,6 +189,10 @@ A curated list of LLM Interpretability related material.
 * **Do Llamas Work in English? On the Latent Language of Multilingual Transformers** [[arxiv 2402]](http://arxiv.org/abs/2402.10588)
 * **Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models** [[arxiv 2402]](http://arxiv.org/abs/2402.16438)
 * **How do Large Language Models Handle Multilingualism?** [[arxiv 2402]](https://arxiv.org/abs/2402.18815)
+
+##### Multimodal
+
+* **Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines** [[arxiv 2403]](https://arxiv.org/abs/2403.05846)
 
 
 #### Component
@@ -293,6 +302,7 @@ A curated list of LLM Interpretability related material.
 * **Steering Llama 2 via Contrastive Activation Addition** [[arxiv 2312]](http://arxiv.org/abs/2312.06681)
 * **A Language Model's Guide Through Latent Space** [[arxiv 2402]](http://arxiv.org/abs/2402.14433)
 * **Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment** [[arxiv 2311]](https://arxiv.org/abs/2311.09433)
+* **Extending Activation Steering to Broad Skills and Multiple Behaviours** [[arxiv 2403]](https://arxiv.org/abs/2403.05767)
 
 ##### Knowledge/Model Editing
 
@@ -315,6 +325,7 @@ A curated list of LLM Interpretability related material.
 * **Trace and Edit Relation Associations in GPT** [[arxiv 2401]](http://arxiv.org/abs/2401.02976)
 * **Model Editing with Canonical Examples** [[arxiv 2402]](https://arxiv.org/abs/2402.06155)
 * **Updating Language Models with Unstructured Facts: Towards Practical Knowledge Editing** [[arxiv 2402]](http://arxiv.org/abs/2402.18909)
+* **Editing Conceptual Knowledge for Large Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.06259)
 
 ##### Hallucination
 
@@ -325,3 +336,4 @@ A curated list of LLM Interpretability related material.
 * **Characterizing Truthfulness in Large Language Model Generations with Local Intrinsic Dimension** [[arxiv 2402]](https://arxiv.org/abs/2402.18048)
 * **Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19103)
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** [[arxiv 2403]](http://arxiv.org/abs/2403.01548)
+* **Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.06448)
