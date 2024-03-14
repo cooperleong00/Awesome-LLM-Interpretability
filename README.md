@@ -21,6 +21,11 @@ A curated list of LLM Interpretability related material.
   * Contains some methods for tracing and editing internal activations in a network.
 * **transformer-debugger** [[github]](https://github.com/openai/transformer-debugger)
   * Transformer Debugger (TDB) is a tool developed by OpenAI's Superalignment team with the goal of supporting investigations into specific behaviors of small language models. The tool combines automated interpretability techniques with sparse autoencoders.
+* **pyvene** [[github]](https://github.com/stanfordnlp/pyvene)
+  * Supports customizable interventions on a range of different PyTorch modules
+  * Supports complex intervention schemes with an intuitive configuration format, and its interventions can be static or include trainable parameters.
+* **ViT-Prisma** [[github]](https://github.com/soniajoseph/ViT-Prisma)
+  * An open-source mechanistic interpretability library for vision and multimodal models.
 
 ### Codebase
 
@@ -244,6 +249,7 @@ A curated list of LLM Interpretability related material.
 
 * **JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention** [[ICLR 2024]](https://openreview.net/forum?id=LbJqRGNYCf)
 * **Learning Associative Memories with Gradient Descent** [[arxiv 2402]](https://arxiv.org/abs/2402.18724)
+* **Mechanics of Next Token Prediction with Self-Attention** [[arxiv 2402]](http://arxiv.org/abs/2403.08081)
 
 ##### Phase Transition/Grokking
 
