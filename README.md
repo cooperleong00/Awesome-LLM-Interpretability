@@ -195,10 +195,12 @@ A curated list of LLM Interpretability related material.
 * **Do Llamas Work in English? On the Latent Language of Multilingual Transformers** [[arxiv 2402]](http://arxiv.org/abs/2402.10588)
 * **Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models** [[arxiv 2402]](http://arxiv.org/abs/2402.16438)
 * **How do Large Language Models Handle Multilingualism?** [[arxiv 2402]](https://arxiv.org/abs/2402.18815)
+* **Large Language Models are Parallel Multilingual Learners** [[arxiv 2403]](https://arxiv.org/abs/2403.09073)
 
 ##### Multimodal
 
 * **Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines** [[arxiv 2403]](https://arxiv.org/abs/2403.05846)
+* **The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?** [[arxiv 2403]](https://arxiv.org/abs/2403.09037)
 
 
 #### Component
