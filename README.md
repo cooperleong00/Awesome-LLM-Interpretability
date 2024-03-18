@@ -104,7 +104,7 @@ A curated list of LLM Interpretability related material.
 * **Neuron to Graph: Interpreting Language Model Neurons at Scale** [[arxiv 2305]](https://arxiv.org/abs/2305.19911) [[openreview]](https://openreview.net/forum?id=JBLHIR8kBZ)
 * **Discovering Knowledge-Critical Subnetworks in Pretrained Language Models** [[openreview]](https://openreview.net/forum?id=Mkdwvl3Y8L)
 * **Attribution Patching Outperforms Automated Circuit Discovery** [[arxiv 2310]](https://arxiv.org/abs/2310.10348)
-* **AtP*: An efficient and scalable method for localizing LLM behaviour to components** [[arxiv 2403]](https://arxiv.org/abs/2403.00745)
+* **AtP\*: An efficient and scalable method for localizing LLM behaviour to components** [[arxiv 2403]](https://arxiv.org/abs/2403.00745)
 
 ##### Sparse Coding
 
