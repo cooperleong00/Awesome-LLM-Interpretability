@@ -110,6 +110,10 @@ A curated list of LLM Interpretability related material.
 
 * **Towards monosemanticity: Decomposing language models with dictionary learning** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2023/monosemantic-features)
 * **Sparse Autoencoders Find Highly Interpretable Features in Language Models** [[ICLR 2024]](https://openreview.net/forum?id=F76bwRSLeK)
+* **Open Source Sparse Autoencoders for all Residual Stream Layers of GPT2-Small** [[Alignment Forum]](https://www.alignmentforum.org/posts/f9EgfLSurAiqRJySD/open-source-sparse-autoencoders-for-all-residual-stream)
+* **Attention SAEs Scale to GPT-2 Small** [[Alignment Forum]](https://www.alignmentforum.org/posts/FSTRedtjuHa4Gfdbr/attention-saes-scale-to-gpt-2-small)
+* **We Inspected Every Head In GPT-2 Small using SAEs So You Don’t Have To** [[Alignment Forum]](https://www.alignmentforum.org/posts/xmegeW5mqiBsvoaim/we-inspected-every-head-in-gpt-2-small-using-saes-so-you-don)
+* **Understanding SAE Features with the Logit Lens** [[Alignment Forum]](https://www.alignmentforum.org/posts/qykrYY6rXXM7EEs8Q/understanding-sae-features-with-the-logit-lens)
 
 ##### Visulization
 
@@ -189,6 +193,7 @@ A curated list of LLM Interpretability related material.
 * **Overthinking the Truth: Understanding how Language Models Process False Demonstrations** [[ICLR 2024 spotlight]](https://openreview.net/forum?id=Tigr1kMDZy)
 * 🌟**Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level** [[AlignmentForum 2312]](https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB)
 * **Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.18154)
+* **A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia** [[arxiv 2403]](http://arxiv.org/abs/2312.02073)
 
 ##### Multilingual/Crosslingual
 
@@ -252,6 +257,7 @@ A curated list of LLM Interpretability related material.
 * **JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention** [[ICLR 2024]](https://openreview.net/forum?id=LbJqRGNYCf)
 * **Learning Associative Memories with Gradient Descent** [[arxiv 2402]](https://arxiv.org/abs/2402.18724)
 * **Mechanics of Next Token Prediction with Self-Attention** [[arxiv 2402]](http://arxiv.org/abs/2403.08081)
+* **The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.08739)
 
 ##### Phase Transition/Grokking
 
@@ -287,6 +293,7 @@ A curated list of LLM Interpretability related material.
 * **More than Correlation: Do Large Language Models Learn Causal Representations of Space** [[arxiv 2312]](https://arxiv.org/abs/2312.16257)
 * **Do Large Language Models Mirror Cognitive Language Processing?** [[arxiv 2402]](https://arxiv.org/abs/2402.18023)
 * **On the Scaling Laws of Geographical Representation in Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19406)
+* **Monotonic Representation of Numeric Properties in Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.10381)
 
 ##### Linearity
 
