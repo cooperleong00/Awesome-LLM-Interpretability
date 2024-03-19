@@ -105,6 +105,7 @@ A curated list of LLM Interpretability related material.
 
 * **Towards Automated Circuit Discovery for Mechanistic Interpretability** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/34e1dbe95d34d7ebaf99b9bcaeb5b2be-Abstract-Conference.html)
 * **Neuron to Graph: Interpreting Language Model Neurons at Scale** [[arxiv 2305]](https://arxiv.org/abs/2305.19911) [[openreview]](https://openreview.net/forum?id=JBLHIR8kBZ)
+* **Discovering Variable Binding Circuitry with Desiderata** [[arxiv 2307]](http://arxiv.org/abs/2307.03637)
 * **Discovering Knowledge-Critical Subnetworks in Pretrained Language Models** [[openreview]](https://openreview.net/forum?id=Mkdwvl3Y8L)
 * **Attribution Patching Outperforms Automated Circuit Discovery** [[arxiv 2310]](https://arxiv.org/abs/2310.10348)
 * **AtP\*: An efficient and scalable method for localizing LLM behaviour to components** [[arxiv 2403]](https://arxiv.org/abs/2403.00745)
@@ -210,7 +211,6 @@ A curated list of LLM Interpretability related material.
 * **Interpreting CLIP's Image Representation via Text-Based Decomposition** [[ICLR 2024 oral]](https://openreview.net/forum?id=5Ca9sSzuDp)
 * **Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines** [[arxiv 2403]](https://arxiv.org/abs/2403.05846)
 * **The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?** [[arxiv 2403]](https://arxiv.org/abs/2403.09037)
-
 
 #### Component
 
