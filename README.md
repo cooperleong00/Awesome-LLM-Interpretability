@@ -83,6 +83,8 @@ A curated list of LLM Interpretability related material.
 
 * **Analyzing Transformers in Embedding Space** [[ACL 2023]](https://aclanthology.org/2023.acl-long.893)
 * **Eliciting Latent Predictions from Transformers with the Tuned Lens** [[arxiv 2303]](https://arxiv.org/abs/2303.08112)
+* **Future Lens: Anticipating Subsequent Tokens from a Single Hidden State** [[CoNLL 2023]](https://aclanthology.org/2023.conll-1.37/)
+* **SelfIE: Self-Interpretation of Large Language Model Embeddings** [[arxiv 2403]](https://arxiv.org/abs/2403.10949)
 
 ##### Probing
 
