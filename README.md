@@ -39,7 +39,8 @@ A curated list of LLM Interpretability related material.
 * **Neuron-level Interpretation of Deep NLP Models: A Survey** [[TACL 2022]](https://aclanthology.org/2022.tacl-1.74)
 
 * **Explainability for Large Language Models: A Survey** [[TIST 2024]](https://dl.acm.org/doi/10.1145/3639372) [[arxiv 2309]](https://arxiv.org/abs/2309.01029)
-* **Opening the Black Box of Large Language Models: Two Views on Holistic Interpretability** [[arxiv]](http://arxiv.org/abs/2402.10688)
+* **Opening the Black Box of Large Language Models: Two Views on Holistic Interpretability** [[arxiv 2402]](http://arxiv.org/abs/2402.10688)
+* **Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era** [[arxiv 2403]](http://arxiv.org/abs/2403.08946)
 
 *Note: These Alignment surveys discuss the relation between Interpretability and LLM Alignment.*
 
