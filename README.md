@@ -8,6 +8,7 @@ A curated list of LLM Interpretability related material.
 * **Mechanistic Interpretability Quickstart Guide** [[Neel Nanda's blog]](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
 * **ARENA Mechanistic Interpretability Tutorials by Callum McDougall** [[website]](https://arena-ch1-transformers.streamlit.app/)
 * **200 Concrete Open Problems in Mechanistic Interpretability: Introduction by Neel Nanda** [[AlignmentForum]](https://www.alignmentforum.org/s/yivyHaCAmMJ3CqSyj)
+* **Transformer-specific Interpretability** [[EACL 2023 Tutorial]](https://projects.illc.uva.nl/indeep/tutorial/)
 
 ## Code
 
