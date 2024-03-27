@@ -110,6 +110,7 @@ A curated list of LLM Interpretability related material.
 * **Discovering Knowledge-Critical Subnetworks in Pretrained Language Models** [[openreview]](https://openreview.net/forum?id=Mkdwvl3Y8L)
 * **Attribution Patching Outperforms Automated Circuit Discovery** [[arxiv 2310]](https://arxiv.org/abs/2310.10348)
 * **AtP\*: An efficient and scalable method for localizing LLM behaviour to components** [[arxiv 2403]](https://arxiv.org/abs/2403.00745)
+* **Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms** [[arxiv 2403]](http://arxiv.org/abs/2403.17806)
 
 ##### Sparse Coding
 
@@ -358,3 +359,9 @@ A curated list of LLM Interpretability related material.
 * **Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19103)
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** [[arxiv 2403]](http://arxiv.org/abs/2403.01548)
 * **Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.06448)
+
+##### Pruning/Redundancy Analysis
+
+* **Not all Layers of LLMs are Necessary during Inference** [[arxiv 2403]](http://arxiv.org/abs/2403.02181)
+* **ShortGPT: Layers in Large Language Models are More Redundant Than You Expect** [[arxiv 2403]](http://arxiv.org/abs/2403.03853)
+* **The Unreasonable Ineffectiveness of the Deeper Layers** [[arxiv 2403]](http://arxiv.org/abs/2403.17887)
