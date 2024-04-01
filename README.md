@@ -111,6 +111,7 @@ A curated list of LLM Interpretability related material.
 * **Attribution Patching Outperforms Automated Circuit Discovery** [[arxiv 2310]](https://arxiv.org/abs/2310.10348)
 * **AtP\*: An efficient and scalable method for localizing LLM behaviour to components** [[arxiv 2403]](https://arxiv.org/abs/2403.00745)
 * **Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms** [[arxiv 2403]](http://arxiv.org/abs/2403.17806)
+* **Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.19647)
 
 ##### Sparse Coding
 
@@ -125,6 +126,7 @@ A curated list of LLM Interpretability related material.
 
 * **Interpreting Transformer's Attention Dynamic Memory and Visualizing the Semantic Information Flow of GPT** [[arxiv 2305]]([10.48550/arXiv.2305.13417](http://arxiv.org/abs/2305.13417)) [[github]](https://github.com/shacharKZ/Visualizing-the-Information-Flow-of-GPT)
 * **Sparse AutoEncoder Visulization** [[github]](https://github.com/callummcdougall/sae_vis)
+  * **SAE-VIS: Announcement Post** [[lesswrong]](https://www.lesswrong.com/posts/nAhy6ZquNY7AD3RkD/sae-vis-announcement-post-1)
 
 ##### Translation
 
