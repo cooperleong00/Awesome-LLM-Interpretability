@@ -27,6 +27,8 @@ A curated list of LLM Interpretability related material.
   * Supports complex intervention schemes with an intuitive configuration format, and its interventions can be static or include trainable parameters.
 * **ViT-Prisma** [[github]](https://github.com/soniajoseph/ViT-Prisma)
   * An open-source mechanistic interpretability library for vision and multimodal models.
+* **pyreft** [[github]](https://github.com/stanfordnlp/pyreft)
+  * A Powerful, Parameter-Efficient, and Interpretable way of fine-tuning
 
 ### Codebase
 
@@ -229,6 +231,7 @@ A curated list of LLM Interpretability related material.
 * **Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions** [[arxiv 2402]](https://arxiv.org/abs/2402.15055)
 * **Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics** [[arxiv 2403]](https://arxiv.org/abs/2403.01509)
 * **The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.03942)
+* **Localizing Paragraph Memorization in Language Models** [[github 2403]](http://arxiv.org/abs/2403.19851)
 
 ##### Attention
 
@@ -315,6 +318,8 @@ A curated list of LLM Interpretability related material.
 * **On the Origins of Linear Representations in Large Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.03867)
 
 #### Application
+
+* **ReFT: Representation Finetuning for Language Models** [[arxiv 2404]](https://arxiv.org/abs/2404.03592) [[github]](https://github.com/stanfordnlp/pyreft)
 
 ##### Inference-Time Intervention
 
