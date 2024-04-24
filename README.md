@@ -43,13 +43,14 @@ A curated list of LLM Interpretability related material.
 * **Explainability for Large Language Models: A Survey** [[TIST 2024]](https://dl.acm.org/doi/10.1145/3639372) [[arxiv 2309]](https://arxiv.org/abs/2309.01029)
 * **Opening the Black Box of Large Language Models: Two Views on Holistic Interpretability** [[arxiv 2402]](http://arxiv.org/abs/2402.10688)
 * **Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era** [[arxiv 2403]](http://arxiv.org/abs/2403.08946)
+* **Mechanistic Interpretability for AI Safety -- A Review** [[arxiv 2404]](http://arxiv.org/abs/2404.14082)
 
 *Note: These Alignment surveys discuss the relation between Interpretability and LLM Alignment.*
 
 * **Large Language Model Alignment: A Survey** [[arxiv 2309]](https://arxiv.org/abs//2309.15025)
 
 * **AI Alignment: A Comprehensive Survey** [[arxiv 2310]](https://arxiv.org/abs/2310.19852)  [[github]](https://github.com/PKU-Alignment/AlignmentSurvey)  [[website]](https://alignmentsurvey.com/)
-
+  
 ## Video
 
 * **Neel Nanda's Channel** [[Youtube]](https://www.youtube.com/@neelnanda2469)
@@ -86,6 +87,7 @@ A curated list of LLM Interpretability related material.
 
 * **Analyzing Transformers in Embedding Space** [[ACL 2023]](https://aclanthology.org/2023.acl-long.893)
 * **Eliciting Latent Predictions from Transformers with the Tuned Lens** [[arxiv 2303]](https://arxiv.org/abs/2303.08112)
+* **An Adversarial Example for Direct Logit Attribution: Memory Management in gelu-4l** [arxiv 2310](http://arxiv.org/abs/2310.07325)
 * **Future Lens: Anticipating Subsequent Tokens from a Single Hidden State** [[CoNLL 2023]](https://aclanthology.org/2023.conll-1.37/)
 * **SelfIE: Self-Interpretation of Large Language Model Embeddings** [[arxiv 2403]](https://arxiv.org/abs/2403.10949)
 
@@ -129,6 +131,7 @@ A curated list of LLM Interpretability related material.
 * **Interpreting Transformer's Attention Dynamic Memory and Visualizing the Semantic Information Flow of GPT** [[arxiv 2305]]([10.48550/arXiv.2305.13417](http://arxiv.org/abs/2305.13417)) [[github]](https://github.com/shacharKZ/Visualizing-the-Information-Flow-of-GPT)
 * **Sparse AutoEncoder Visulization** [[github]](https://github.com/callummcdougall/sae_vis)
   * **SAE-VIS: Announcement Post** [[lesswrong]](https://www.lesswrong.com/posts/nAhy6ZquNY7AD3RkD/sae-vis-announcement-post-1)
+* **LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models** [[arxiv 2404]](http://arxiv.org/abs/2404.07004) [[github]](https://github.com/facebookresearch/ llm-transparency-tool)
 
 ##### Translation
 
@@ -161,6 +164,7 @@ A curated list of LLM Interpretability related material.
 * **Entity Tracking in Language Models** [[ACL 2023]](https://aclanthology.org/2023.acl-long.213)
 * **How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/efbba7719cc5172d175240f24be11280-Abstract-Conference.html)
 * **Can Transformers Learn to Solve Problems Recursively?** [[arxiv 2305]](http://arxiv.org/abs/2305.14699)
+* **Analyzing And Editing Inner Mechanisms of Backdoored Language Models** [[NeurIPS 2023 Workshop]](https://openreview.net/forum?id=e9F4fB23o0)
 * **Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla** [[arxiv 2307]](http://arxiv.org/abs/2307.09458)
 * **Refusal mechanisms: initial experiments with Llama-2-7b-chat** [[AlignmentForum 2312]](https://www.alignmentforum.org/posts/pYcEhoAoPfHhgJ8YC/refusal-mechanisms-initial-experiments-with-llama-2-7b-chat)
 * **Forbidden Facts: An Investigation of Competing Objectives in Llama-2** [[arxiv 2312]](http://arxiv.org/abs/2312.08793)
@@ -193,6 +197,7 @@ A curated list of LLM Interpretability related material.
 * **Analyzing Task-Encoding Tokens in Large Language Models** [[arxiv 2401]](http://arxiv.org/abs/2401.11323)
 * **How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning** [[arxiv 2402]](http://arxiv.org/abs/2402.02872)
 * **Parallel Structures in Pre-training Data Yield In-Context Learning** [[arxiv 2402]](http://arxiv.org/abs/2402.12530)
+* **What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation** [[arxiv 2404]](http://arxiv.org/abs/2404.07129)
 
 ##### Factual Knowledge
 
@@ -203,7 +208,9 @@ A curated list of LLM Interpretability related material.
 * **Overthinking the Truth: Understanding how Language Models Process False Demonstrations** [[ICLR 2024 spotlight]](https://openreview.net/forum?id=Tigr1kMDZy)
 * 🌟**Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level** [[AlignmentForum 2312]](https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB)
 * **Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.18154)
+* **Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals** [[arxiv 2402]](http://arxiv.org/abs/2402.11655)
 * **A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia** [[arxiv 2403]](http://arxiv.org/abs/2312.02073)
+* **Locating and Editing Factual Associations in Mamba** [[arxiv 2404]](arXiv:2404.03646)
 
 ##### Multilingual/Crosslingual
 
@@ -211,6 +218,7 @@ A curated list of LLM Interpretability related material.
 * **Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models** [[arxiv 2402]](http://arxiv.org/abs/2402.16438)
 * **How do Large Language Models Handle Multilingualism?** [[arxiv 2402]](https://arxiv.org/abs/2402.18815)
 * **Large Language Models are Parallel Multilingual Learners** [[arxiv 2403]](https://arxiv.org/abs/2403.09073)
+* **Understanding the role of FFNs in driving multilingual behaviour in LLMs** [[arxiv 2404]](http://arxiv.org/abs/2404.13855)
 
 ##### Multimodal
 
@@ -242,12 +250,12 @@ A curated list of LLM Interpretability related material.
 * **Successor Heads: Recurring, Interpretable Attention Heads In The Wild** [[ICLR 2024]](https://openreview.net/forum?id=kvcbV8KQsi)
 * **A phase transition between positional and semantic learning in a solvable model of dot-product attention** [[arxiv 2024]](http://arxiv.org/abs/2402.03902)
 
-
 ##### MLP/FFN
 
 * 🌟**Transformer Feed-Forward Layers Are Key-Value Memories** [[EMNLP 2021]](https://aclanthology.org/2021.emnlp-main.446)
 * **Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space** [[EMNLP 2022]](https://aclanthology.org/2022.emnlp-main.3)
 * **What does GPT store in its MLP weights? A case study of long-range dependencies** [[openreview]](https://openreview.net/forum?id=nUGFpDCu3W)
+* **Understanding the role of FFNs in driving multilingual behaviour in LLMs** [[arxiv 2404]](http://arxiv.org/abs/2404.13855)
 
 ##### Neuron
 
@@ -260,6 +268,7 @@ A curated list of LLM Interpretability related material.
 * **Universal Neurons in GPT2 Language Models** [[arxiv 2401]](http://arxiv.org/abs/2401.12181)
 * **Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models** [[arxiv 2402]](http://arxiv.org/abs/2402.16438)
 * **How do Large Language Models Handle Multilingualism?** [[arxiv 2402]](https://arxiv.org/abs/2402.18815)
+* **PURE: Turning Polysemantic Neurons Into Pure Features by Identifying Relevant Circuits** [[arxiv 2404]](http://arxiv.org/abs/2404.06453)
 
 #### Learning Dynamics
 
@@ -305,6 +314,8 @@ A curated list of LLM Interpretability related material.
 * **Do Large Language Models Mirror Cognitive Language Processing?** [[arxiv 2402]](https://arxiv.org/abs/2402.18023)
 * **On the Scaling Laws of Geographical Representation in Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19406)
 * **Monotonic Representation of Numeric Properties in Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.10381)
+* **Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?** [[arxiv 2404]](http://arxiv.org/abs/2404.07066)
+* **Simple probes can catch sleeper agents** [[Anthropic Blog]](https://www.anthropic.com/research/probes-catch-sleeper-agents)
 
 ##### Linearity
 
