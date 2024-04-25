@@ -105,6 +105,7 @@ A curated list of LLM Interpretability related material.
 * **Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching** [[ICLR 2024]](https://openreview.net/forum?id=Ebt7JgMHv1)
   * **A Reply to Makelov et al. (2023)'s "Interpretability Illusion" Arguments** [[arxiv 2401]](https://arxiv.org/abs/2401.12631)
 * **CausalGym: Benchmarking causal interpretability methods on linguistic tasks** [[arxiv 2402]](http://arxiv.org/abs/2402.12560)
+* **How to use and interpret activation patching** [[arxiv 2404]](http://arxiv.org/abs/2404.15255)
 
 ##### Automation
 
@@ -249,6 +250,7 @@ A curated list of LLM Interpretability related material.
 * **Copy Suppression: Comprehensively Understanding an Attention Head** [[ICLR 2024]](https://openreview.net/forum?id=g8oaZRhDcf)
 * **Successor Heads: Recurring, Interpretable Attention Heads In The Wild** [[ICLR 2024]](https://openreview.net/forum?id=kvcbV8KQsi)
 * **A phase transition between positional and semantic learning in a solvable model of dot-product attention** [[arxiv 2024]](http://arxiv.org/abs/2402.03902)
+* **Retrieval Head Mechanistically Explains Long-Context Factuality** [[arxiv 2404]](http://arxiv.org/abs/2404.15574)
 
 ##### MLP/FFN
 
