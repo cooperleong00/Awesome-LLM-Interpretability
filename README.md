@@ -44,6 +44,7 @@ A curated list of LLM Interpretability related material.
 * **Opening the Black Box of Large Language Models: Two Views on Holistic Interpretability** [[arxiv 2402]](http://arxiv.org/abs/2402.10688)
 * **Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era** [[arxiv 2403]](http://arxiv.org/abs/2403.08946)
 * **Mechanistic Interpretability for AI Safety -- A Review** [[arxiv 2404]](http://arxiv.org/abs/2404.14082)
+* **A Primer on the Inner Workings of Transformer-based Language Models** [[arxiv  2405]](https://arxiv.org/abs/2405.00208)
 
 *Note: These Alignment surveys discuss the relation between Interpretability and LLM Alignment.*
 
