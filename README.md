@@ -216,6 +216,7 @@ A curated list of LLM Interpretability related material.
 * **Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.18154)
 * **Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals** [[arxiv 2402]](http://arxiv.org/abs/2402.11655)
 * **A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia** [[arxiv 2403]](http://arxiv.org/abs/2312.02073)
+* **Mechanisms of non-factual hallucinations in language models** [[arxiv 2403]](https://arxiv.org/abs/2403.18167)
 * **Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models** [[arxiv 2403]](arXiv:2403.19521)
 * **Locating and Editing Factual Associations in Mamba** [[arxiv 2404]](arXiv:2404.03646)
 
