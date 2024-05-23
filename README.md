@@ -118,8 +118,9 @@ A curated list of LLM Interpretability related material.
 * **AtP\*: An efficient and scalable method for localizing LLM behaviour to components** [[arxiv 2403]](https://arxiv.org/abs/2403.00745)
 * **Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms** [[arxiv 2403]](http://arxiv.org/abs/2403.17806)
 * **Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.19647)
+* **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[arxiv 2405]](http://arxiv.org/abs/2405.12522)
 
-##### Sparse Coding
+##### 🌟Sparse Coding
 
 * **Towards monosemanticity: Decomposing language models with dictionary learning** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2023/monosemantic-features)
 * **Sparse Autoencoders Find Highly Interpretable Features in Language Models** [[ICLR 2024]](https://openreview.net/forum?id=F76bwRSLeK)
@@ -127,6 +128,8 @@ A curated list of LLM Interpretability related material.
 * **Attention SAEs Scale to GPT-2 Small** [[Alignment Forum]](https://www.alignmentforum.org/posts/FSTRedtjuHa4Gfdbr/attention-saes-scale-to-gpt-2-small)
 * **We Inspected Every Head In GPT-2 Small using SAEs So You Don’t Have To** [[Alignment Forum]](https://www.alignmentforum.org/posts/xmegeW5mqiBsvoaim/we-inspected-every-head-in-gpt-2-small-using-saes-so-you-don)
 * **Understanding SAE Features with the Logit Lens** [[Alignment Forum]](https://www.alignmentforum.org/posts/qykrYY6rXXM7EEs8Q/understanding-sae-features-with-the-logit-lens)
+* 🌟**Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+* **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[arxiv 2405]](http://arxiv.org/abs/2405.12522)
 
 ##### Visulization
 
@@ -145,6 +148,7 @@ A curated list of LLM Interpretability related material.
 
 * **Look Before You Leap: A Universal Emergent Decomposition of Retrieval Tasks in Language Models** [[arxiv 2312]](http://arxiv.org/abs/2312.10091)
 * **RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations** [[arxiv 2402]](https://arxiv.org/abs/2402.17700)
+* **Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control** [[arxiv 2405]](http://arxiv.org/abs/2405.08366)
 
 #### Task Solving/Function/Ability
 
@@ -332,12 +336,13 @@ A curated list of LLM Interpretability related material.
 * **The Linear Representation Hypothesis and the Geometry of Large Language Models** [[arxiv 2311]](https://arxiv.org/abs/2311.03658)
 * **Language Models Represent Beliefs of Self and Others** [[arxiv 2402]](https://arxiv.org/abs/2402.18496)
 * **On the Origins of Linear Representations in Large Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.03867)
+* **Refusal in LLMs is mediated by a single direction** [[Lesswrong 2024]](https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction)
 
 #### Application
 
 * **ReFT: Representation Finetuning for Language Models** [[arxiv 2404]](https://arxiv.org/abs/2404.03592) [[github]](https://github.com/stanfordnlp/pyreft)
 
-##### Inference-Time Intervention
+##### Inference-Time Intervention/Activation Steering
 
 * **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html) [[github]](https://github.com/likenneth/honest_llama)
 * **Activation Addition: Steering Language Models Without Optimization** [[arxiv 2308]](http://arxiv.org/abs/2308.10248)
@@ -348,6 +353,7 @@ A curated list of LLM Interpretability related material.
 * **A Language Model's Guide Through Latent Space** [[arxiv 2402]](http://arxiv.org/abs/2402.14433)
 * **Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment** [[arxiv 2311]](https://arxiv.org/abs/2311.09433)
 * **Extending Activation Steering to Broad Skills and Multiple Behaviours** [[arxiv 2403]](https://arxiv.org/abs/2403.05767)
+* **Spectral Editing of Activations for Large Language Model Alignment** [[arxiv 2405]](http://arxiv.org/abs/2405.09719)
 
 ##### Knowledge/Model Editing
 
