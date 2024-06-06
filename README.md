@@ -131,7 +131,7 @@ A curated list of LLM Interpretability related material.
 * 🌟**Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[arxiv 2405]](http://arxiv.org/abs/2405.12522)
 
-##### Visulization
+##### Visualization
 
 * **Interpreting Transformer's Attention Dynamic Memory and Visualizing the Semantic Information Flow of GPT** [[arxiv 2305]]([10.48550/arXiv.2305.13417](http://arxiv.org/abs/2305.13417)) [[github]](https://github.com/shacharKZ/Visualizing-the-Information-Flow-of-GPT)
 * **Sparse AutoEncoder Visulization** [[github]](https://github.com/callummcdougall/sae_vis)
@@ -189,6 +189,7 @@ A curated list of LLM Interpretability related material.
 * **A simple and interpretable model of grokking modular arithmetic tasks** [[openreview]](https://openreview.net/forum?id=0ZUKLCxwBo)
 * **Understanding Addition in Transformers** [[ICLR 2024]](https://openreview.net/forum?id=rIx1YXVWZb)
 * **Increasing Trust in Language Models through the Reuse of Verified Circuits** [[arxiv 2402]](http://arxiv.org/abs/2402.02619)
+* **Pre-trained Large Language Models Use Fourier Features to Compute Addition** [[arxiv 2406]](https://arxiv.org/abs/2406.03445)
 
 ##### In-context Learning
 
