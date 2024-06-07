@@ -130,6 +130,7 @@ A curated list of LLM Interpretability related material.
 * **Understanding SAE Features with the Logit Lens** [[Alignment Forum]](https://www.alignmentforum.org/posts/qykrYY6rXXM7EEs8Q/understanding-sae-features-with-the-logit-lens)
 * 🌟**Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[arxiv 2405]](http://arxiv.org/abs/2405.12522)
+* **Scaling and evaluating sparse autoencoders** [[arxiv 2406]](https://arxiv.org/abs/2406.04093) [[code]](https://github.com/openai/sparse_autoencoder/)
 
 ##### Visualization
 
@@ -163,6 +164,7 @@ A curated list of LLM Interpretability related material.
 * **Do Large Language Models Latently Perform Multi-Hop Reasoning?** [[arxiv 2402]](http://arxiv.org/abs/2402.16837)
 * **How to think step-by-step: A mechanistic understanding of chain-of-thought reasoning** [[arxiv 2402]](https://arxiv.org/abs/2402.18312)
 * **Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning** [[arxiv 2402]](https://arxiv.org/abs/2402.18344)
+* **Iteration Head: A Mechanistic Study of Chain-of-Thought** [[arxiv]](https://arxiv.org/abs/2406.02128)
 
 ##### Function
 
@@ -178,6 +180,7 @@ A curated list of LLM Interpretability related material.
 * **How Language Models Learn Context-Free Grammars?** [[openreview]](https://openreview.net/forum?id=qnbLGV9oFL)
 * 🌟**A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity** [[arxiv 2401]](http://arxiv.org/abs/2401.01967)
 * **Do Llamas Work in English? On the Latent Language of Multilingual Transformers** [[arxiv 2402]](http://arxiv.org/abs/2402.10588)
+* **Evidence of Learned Look-Ahead in a Chess-Playing Neural Network** [[arxiv2406]](https://arxiv.org/abs/2406.00877)
 
 ##### Arithmetic Ability
 
@@ -235,6 +238,7 @@ A curated list of LLM Interpretability related material.
 * **Interpreting CLIP's Image Representation via Text-Based Decomposition** [[ICLR 2024 oral]](https://openreview.net/forum?id=5Ca9sSzuDp)
 * **Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines** [[arxiv 2403]](https://arxiv.org/abs/2403.05846)
 * **The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?** [[arxiv 2403]](https://arxiv.org/abs/2403.09037)
+* **Understanding Information Storage and Transfer in Multi-modal Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.04236)
 
 #### Component
 
@@ -260,6 +264,7 @@ A curated list of LLM Interpretability related material.
 * **Successor Heads: Recurring, Interpretable Attention Heads In The Wild** [[ICLR 2024]](https://openreview.net/forum?id=kvcbV8KQsi)
 * **A phase transition between positional and semantic learning in a solvable model of dot-product attention** [[arxiv 2024]](http://arxiv.org/abs/2402.03902)
 * **Retrieval Head Mechanistically Explains Long-Context Factuality** [[arxiv 2404]](http://arxiv.org/abs/2404.15574)
+* **Iteration Head: A Mechanistic Study of Chain-of-Thought** [[arxiv]](https://arxiv.org/abs/2406.02128)
 
 ##### MLP/FFN
 
@@ -301,6 +306,7 @@ A curated list of LLM Interpretability related material.
 * **Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition** [[arxiv 2402]](http://arxiv.org/abs/2402.15175)
 * **Interpreting Grokked Transformers in Complex Modular Arithmetic** [[arxiv 2402]](https://arxiv.org/abs/2402.16726)
 * **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19465)
+* **Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks** [[arxiv 2406]](https://arxiv.org/abs/2406.02550)
 
 ##### Fine-tuning
 
@@ -327,6 +333,7 @@ A curated list of LLM Interpretability related material.
 * **Monotonic Representation of Numeric Properties in Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.10381)
 * **Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?** [[arxiv 2404]](http://arxiv.org/abs/2404.07066)
 * **Simple probes can catch sleeper agents** [[Anthropic Blog]](https://www.anthropic.com/research/probes-catch-sleeper-agents)
+* **PaCE: Parsimonious Concept Engineering for Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.04331)
 
 ##### Linearity
 
@@ -356,6 +363,7 @@ A curated list of LLM Interpretability related material.
 * **Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment** [[arxiv 2311]](https://arxiv.org/abs/2311.09433)
 * **Extending Activation Steering to Broad Skills and Multiple Behaviours** [[arxiv 2403]](https://arxiv.org/abs/2403.05767)
 * **Spectral Editing of Activations for Large Language Model Alignment** [[arxiv 2405]](http://arxiv.org/abs/2405.09719)
+* **Controlling Large Language Model Agents with Entropic Activation Steering** [[arxiv 2406]](https://arxiv.org/abs/2406.00244)
 
 ##### Knowledge/Model Editing
 
@@ -379,6 +387,7 @@ A curated list of LLM Interpretability related material.
 * **Model Editing with Canonical Examples** [[arxiv 2402]](https://arxiv.org/abs/2402.06155)
 * **Updating Language Models with Unstructured Facts: Towards Practical Knowledge Editing** [[arxiv 2402]](http://arxiv.org/abs/2402.18909)
 * **Editing Conceptual Knowledge for Large Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.06259)
+* **Editing the Mind of Giants: An In-Depth Exploration of Pitfalls of Knowledge Editing in Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.01436)
 
 ##### Hallucination
 
@@ -390,6 +399,7 @@ A curated list of LLM Interpretability related material.
 * **Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19103)
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** [[arxiv 2403]](http://arxiv.org/abs/2403.01548)
 * **Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.06448)
+* **Adaptive Activation Steering: A Tuning-Free LLM Truthfulness Improvement Method for Diverse Hallucinations Categories** [[arxiv 2406]](https://arxiv.org/abs/2406.00034)
 
 ##### Pruning/Redundancy Analysis
 
