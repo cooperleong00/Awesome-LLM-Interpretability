@@ -257,6 +257,9 @@ A curated list of LLM Interpretability related material.
 
 ##### Attention
 
+* **Awesome-Attention-Heads** [[github]](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)
+  * A carefully compiled list that summarizes the diverse functions of the attention heads.
+
 * 🌟**In-context learning and induction heads** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
 * **On the Expressivity Role of LayerNorm in Transformers' Attention** [[ACL 2023 Findings]](https://aclanthology.org/2023.findings-acl.895.pdf)
 * **On the Role of Attention in Prompt-tuning** [[ICML 2023]](https://openreview.net/forum?id=qorOnDor89)
