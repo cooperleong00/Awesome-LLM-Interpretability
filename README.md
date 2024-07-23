@@ -35,6 +35,7 @@ A curated list of LLM Interpretability related material.
 * **mamba interpretability** [[github]](https://github.com/Phylliida/mamba_interp)
 
 ## Survey
+* **Internal Consistency and Self-Feedback in Large Language Models: A Survey** [[arxiv 2407]](https://arxiv.org/abs/2407.14507)
 
 * **Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks** [[SaTML 2023]](https://ieeexplore.ieee.org/abstract/document/10136140) [[arxiv 2207]](https://arxiv.org/abs/2207.13243)
 
