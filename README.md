@@ -29,6 +29,8 @@ A curated list of LLM Interpretability related material.
   * An open-source mechanistic interpretability library for vision and multimodal models.
 * **pyreft** [[github]](https://github.com/stanfordnlp/pyreft)
   * A Powerful, Parameter-Efficient, and Interpretable way of fine-tuning
+* **SAELens** [[github]](https://github.com/jbloomAus/SAELens)
+  * Training and analyzing sparse autoencoders on Language Models
 
 ### Codebase
 
@@ -46,6 +48,7 @@ A curated list of LLM Interpretability related material.
 * **Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era** [[arxiv 2403]](http://arxiv.org/abs/2403.08946)
 * **Mechanistic Interpretability for AI Safety -- A Review** [[arxiv 2404]](http://arxiv.org/abs/2404.14082)
 * **A Primer on the Inner Workings of Transformer-based Language Models** [[arxiv  2405]](https://arxiv.org/abs/2405.00208)
+* **A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models** [[arxiv 2407]](http://arxiv.org/abs/2407.02646)
 
 *Note: These Alignment surveys discuss the relation between Interpretability and LLM Alignment.*
 
@@ -64,7 +67,9 @@ A curated list of LLM Interpretability related material.
 
 ### By Source
 
-* **Transformer Circuits Thread** [[blog]](https://transformer-circuits.pub/)
+* **🌟ICML 2024 Workshop on Mechanistic Interpretability** [[openreview]](https://openreview.net/group?id=ICML.cc/2024/Workshop/MI#tab-accept-oral)
+
+* **🌟Transformer Circuits Thread** [[blog]](https://transformer-circuits.pub/)
 * **BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP** [[workshop]](https://aclanthology.org/venues/blackboxnlp/)
 * **AI Alignment Forum** [[forum]](https://www.alignmentforum.org/)
 * **Lesswrong** [[forum]](https://www.lesswrong.com/)
@@ -151,6 +156,7 @@ A curated list of LLM Interpretability related material.
 * **Look Before You Leap: A Universal Emergent Decomposition of Retrieval Tasks in Language Models** [[arxiv 2312]](http://arxiv.org/abs/2312.10091)
 * **RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations** [[arxiv 2402]](https://arxiv.org/abs/2402.17700)
 * **Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control** [[arxiv 2405]](http://arxiv.org/abs/2405.08366)
+* **InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques** [[arxiv 2407]](http://arxiv.org/abs/2407.14494)
 
 #### Task Solving/Function/Ability
 
