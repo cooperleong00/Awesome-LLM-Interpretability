@@ -97,6 +97,7 @@ A curated list of LLM Interpretability related material.
 * **An Adversarial Example for Direct Logit Attribution: Memory Management in gelu-4l** [arxiv 2310](http://arxiv.org/abs/2310.07325)
 * **Future Lens: Anticipating Subsequent Tokens from a Single Hidden State** [[CoNLL 2023]](https://aclanthology.org/2023.conll-1.37/)
 * **SelfIE: Self-Interpretation of Large Language Model Embeddings** [[arxiv 2403]](https://arxiv.org/abs/2403.10949)
+* **InversionView: A General-Purpose Method for Reading Information from Neural Activations** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=P7MW0FahEq)
 
 ##### Probing
 
@@ -125,6 +126,7 @@ A curated list of LLM Interpretability related material.
 * **Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms** [[arxiv 2403]](http://arxiv.org/abs/2403.17806)
 * **Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.19647)
 * **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[arxiv 2405]](http://arxiv.org/abs/2405.12522)
+* **Hypothesis Testing the Circuit Hypothesis in LLMs** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=ibSNv9cldu)
 
 ##### 🌟Sparse Coding
 
@@ -138,6 +140,9 @@ A curated list of LLM Interpretability related material.
 * **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[arxiv 2405]](http://arxiv.org/abs/2405.12522)
 * **Scaling and evaluating sparse autoencoders** [[arxiv 2406]](https://arxiv.org/abs/2406.04093) [[code]](https://github.com/openai/sparse_autoencoder/)
 * **Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=qzsDKwGJyB)
+* **Sparse Autoencoders Match Supervised Features for Model Steering on the IOI Task** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=JdrVuEQih5)
+* **Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=bcV7rhBEcM)
+* **Transcoders find interpretable LLM feature circuits** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=GWqzUR2dOX)
 * **Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders** [[arxiv 2407]](http://arxiv.org/abs/2407.14435)
 
 
@@ -242,6 +247,7 @@ A curated list of LLM Interpretability related material.
 * **How do Large Language Models Handle Multilingualism?** [[arxiv 2402]](https://arxiv.org/abs/2402.18815)
 * **Large Language Models are Parallel Multilingual Learners** [[arxiv 2403]](https://arxiv.org/abs/2403.09073)
 * **Understanding the role of FFNs in driving multilingual behaviour in LLMs** [[arxiv 2404]](http://arxiv.org/abs/2404.13855)
+* **How do Llamas process multilingual text? A latent exploration through activation patching** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=0ku2hIm4BS)
 
 ##### Multimodal
 
@@ -307,6 +313,7 @@ A curated list of LLM Interpretability related material.
 * **Learning Associative Memories with Gradient Descent** [[arxiv 2402]](https://arxiv.org/abs/2402.18724)
 * **Mechanics of Next Token Prediction with Self-Attention** [[arxiv 2402]](http://arxiv.org/abs/2403.08081)
 * **The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.08739)
+* **LLM Circuit Analyses Are Consistent Across Training and Scale** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=1WeLXvaNJP)
 
 ##### Phase Transition/Grokking
 
@@ -348,6 +355,7 @@ A curated list of LLM Interpretability related material.
 * **Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?** [[arxiv 2404]](http://arxiv.org/abs/2404.07066)
 * **Simple probes can catch sleeper agents** [[Anthropic Blog]](https://www.anthropic.com/research/probes-catch-sleeper-agents)
 * **PaCE: Parsimonious Concept Engineering for Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.04331)
+* **The Geometry of Categorical and Hierarchical Concepts in Large Language Models** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=KXuYjuBzKo)
 
 ##### Linearity
 
@@ -378,6 +386,7 @@ A curated list of LLM Interpretability related material.
 * **Extending Activation Steering to Broad Skills and Multiple Behaviours** [[arxiv 2403]](https://arxiv.org/abs/2403.05767)
 * **Spectral Editing of Activations for Large Language Model Alignment** [[arxiv 2405]](http://arxiv.org/abs/2405.09719)
 * **Controlling Large Language Model Agents with Entropic Activation Steering** [[arxiv 2406]](https://arxiv.org/abs/2406.00244)
+* **Analyzing the Generalization and Reliability of Steering Vectors** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=akCsMk4dDL)
 
 ##### Knowledge/Model Editing
 
@@ -420,3 +429,4 @@ A curated list of LLM Interpretability related material.
 * **Not all Layers of LLMs are Necessary during Inference** [[arxiv 2403]](http://arxiv.org/abs/2403.02181)
 * **ShortGPT: Layers in Large Language Models are More Redundant Than You Expect** [[arxiv 2403]](http://arxiv.org/abs/2403.03853)
 * **The Unreasonable Ineffectiveness of the Deeper Layers** [[arxiv 2403]](http://arxiv.org/abs/2403.17887)
+* **The Remarkable Robustness of LLMs: Stages of Inference?** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=R5unwb9KPc)
