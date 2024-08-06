@@ -137,6 +137,9 @@ A curated list of LLM Interpretability related material.
 * 🌟**Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[arxiv 2405]](http://arxiv.org/abs/2405.12522)
 * **Scaling and evaluating sparse autoencoders** [[arxiv 2406]](https://arxiv.org/abs/2406.04093) [[code]](https://github.com/openai/sparse_autoencoder/)
+* **Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=qzsDKwGJyB)
+* **Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders** [[arxiv 2407]](http://arxiv.org/abs/2407.14435)
+
 
 ##### Visualization
 
@@ -317,6 +320,7 @@ A curated list of LLM Interpretability related material.
 * **Interpreting Grokked Transformers in Complex Modular Arithmetic** [[arxiv 2402]](https://arxiv.org/abs/2402.16726)
 * **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models** [[arxiv 2402]](https://arxiv.org/abs/2402.19465)
 * **Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks** [[arxiv 2406]](https://arxiv.org/abs/2406.02550)
+* **Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=ns8IH5Sn5y)
 
 ##### Fine-tuning
 
