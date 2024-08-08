@@ -37,18 +37,17 @@ A curated list of LLM Interpretability related material.
 * **mamba interpretability** [[github]](https://github.com/Phylliida/mamba_interp)
 
 ## Survey
-* **Internal Consistency and Self-Feedback in Large Language Models: A Survey** [[arxiv 2407]](https://arxiv.org/abs/2407.14507)
 
 * **Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks** [[SaTML 2023]](https://ieeexplore.ieee.org/abstract/document/10136140) [[arxiv 2207]](https://arxiv.org/abs/2207.13243)
-
 * **Neuron-level Interpretation of Deep NLP Models: A Survey** [[TACL 2022]](https://aclanthology.org/2022.tacl-1.74)
-
 * **Explainability for Large Language Models: A Survey** [[TIST 2024]](https://dl.acm.org/doi/10.1145/3639372) [[arxiv 2309]](https://arxiv.org/abs/2309.01029)
 * **Opening the Black Box of Large Language Models: Two Views on Holistic Interpretability** [[arxiv 2402]](http://arxiv.org/abs/2402.10688)
 * **Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era** [[arxiv 2403]](http://arxiv.org/abs/2403.08946)
 * **Mechanistic Interpretability for AI Safety -- A Review** [[arxiv 2404]](http://arxiv.org/abs/2404.14082)
 * **A Primer on the Inner Workings of Transformer-based Language Models** [[arxiv  2405]](https://arxiv.org/abs/2405.00208)
 * **A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models** [[arxiv 2407]](http://arxiv.org/abs/2407.02646)
+* **Internal Consistency and Self-Feedback in Large Language Models: A Survey** [[arxiv 2407]](https://arxiv.org/abs/2407.14507)
+* **The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability** [[arxiv 2408]](https://arxiv.org/abs/2408.01416)
 
 *Note: These Alignment surveys discuss the relation between Interpretability and LLM Alignment.*
 
