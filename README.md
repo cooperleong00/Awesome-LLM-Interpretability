@@ -124,6 +124,7 @@ A curated list of LLM Interpretability related material.
 * **AtP\*: An efficient and scalable method for localizing LLM behaviour to components** [[arxiv 2403]](https://arxiv.org/abs/2403.00745)
 * **Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms** [[arxiv 2403]](http://arxiv.org/abs/2403.17806)
 * **Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.19647)
+* **Automatically Identifying Local and Global Circuits with Linear Computation Graphs** [[arxiv 2405]](https://arxiv.org/abs/2405.13868)
 * **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[arxiv 2405]](http://arxiv.org/abs/2405.12522)
 * **Hypothesis Testing the Circuit Hypothesis in LLMs** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=ibSNv9cldu)
 
