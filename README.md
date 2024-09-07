@@ -48,7 +48,7 @@ A curated list of LLM Interpretability related material.
 * **A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models** [[arxiv 2407]](http://arxiv.org/abs/2407.02646)
 * **Internal Consistency and Self-Feedback in Large Language Models: A Survey** [[arxiv 2407]](https://arxiv.org/abs/2407.14507)
 * **The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability** [[arxiv 2408]](https://arxiv.org/abs/2408.01416)
-* **Attention Heads of Large Language Models: A Survey** [[arxiv 2409]](https://arxiv.org/abs/2409.03752)
+* **Attention Heads of Large Language Models: A Survey** [[arxiv 2409]](https://arxiv.org/abs/2409.03752) [[github]](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)
 
 *Note: These Alignment surveys discuss the relation between Interpretability and LLM Alignment.*
 
