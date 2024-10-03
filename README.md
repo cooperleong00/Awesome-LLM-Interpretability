@@ -45,7 +45,7 @@ A curated list of LLM Interpretability related material.
 * **Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era** [[arxiv 2403]](http://arxiv.org/abs/2403.08946)
 * **Mechanistic Interpretability for AI Safety -- A Review** [[arxiv 2404]](http://arxiv.org/abs/2404.14082)
 * **A Primer on the Inner Workings of Transformer-based Language Models** [[arxiv  2405]](https://arxiv.org/abs/2405.00208)
-* **A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models** [[arxiv 2407]](http://arxiv.org/abs/2407.02646)
+* **🌟A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models** [[arxiv 2407]](http://arxiv.org/abs/2407.02646)
 * **Internal Consistency and Self-Feedback in Large Language Models: A Survey** [[arxiv 2407]](https://arxiv.org/abs/2407.14507)
 * **The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability** [[arxiv 2408]](https://arxiv.org/abs/2408.01416)
 * **Attention Heads of Large Language Models: A Survey** [[arxiv 2409]](https://arxiv.org/abs/2409.03752) [[github]](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)
@@ -90,9 +90,9 @@ A curated list of LLM Interpretability related material.
 
 ##### Embedding Projection
 
-* **interpreting GPT: the logit lens** [[Lesswrong 2020]](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
+* **🌟interpreting GPT: the logit lens** [[Lesswrong 2020]](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
 
-* **Analyzing Transformers in Embedding Space** [[ACL 2023]](https://aclanthology.org/2023.acl-long.893)
+* **🌟Analyzing Transformers in Embedding Space** [[ACL 2023]](https://aclanthology.org/2023.acl-long.893)
 * **Eliciting Latent Predictions from Transformers with the Tuned Lens** [[arxiv 2303]](https://arxiv.org/abs/2303.08112)
 * **An Adversarial Example for Direct Logit Attribution: Memory Management in gelu-4l** [arxiv 2310](http://arxiv.org/abs/2310.07325)
 * **Future Lens: Anticipating Subsequent Tokens from a Single Hidden State** [[CoNLL 2023]](https://aclanthology.org/2023.conll-1.37/)
@@ -113,7 +113,7 @@ A curated list of LLM Interpretability related material.
 * **Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching** [[ICLR 2024]](https://openreview.net/forum?id=Ebt7JgMHv1)
   * **A Reply to Makelov et al. (2023)'s "Interpretability Illusion" Arguments** [[arxiv 2401]](https://arxiv.org/abs/2401.12631)
 * **CausalGym: Benchmarking causal interpretability methods on linguistic tasks** [[arxiv 2402]](http://arxiv.org/abs/2402.12560)
-* **How to use and interpret activation patching** [[arxiv 2404]](http://arxiv.org/abs/2404.15255)
+* **🌟How to use and interpret activation patching** [[arxiv 2404]](http://arxiv.org/abs/2404.15255)
 
 ##### Automation
 
@@ -131,13 +131,13 @@ A curated list of LLM Interpretability related material.
 
 ##### 🌟Sparse Coding
 
-* **Towards monosemanticity: Decomposing language models with dictionary learning** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2023/monosemantic-features)
+* 🌟**Towards monosemanticity: Decomposing language models with dictionary learning** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2023/monosemantic-features)
 * **Sparse Autoencoders Find Highly Interpretable Features in Language Models** [[ICLR 2024]](https://openreview.net/forum?id=F76bwRSLeK)
 * **Open Source Sparse Autoencoders for all Residual Stream Layers of GPT2-Small** [[Alignment Forum]](https://www.alignmentforum.org/posts/f9EgfLSurAiqRJySD/open-source-sparse-autoencoders-for-all-residual-stream)
 * **Attention SAEs Scale to GPT-2 Small** [[Alignment Forum]](https://www.alignmentforum.org/posts/FSTRedtjuHa4Gfdbr/attention-saes-scale-to-gpt-2-small)
 * **We Inspected Every Head In GPT-2 Small using SAEs So You Don’t Have To** [[Alignment Forum]](https://www.alignmentforum.org/posts/xmegeW5mqiBsvoaim/we-inspected-every-head-in-gpt-2-small-using-saes-so-you-don)
 * **Understanding SAE Features with the Logit Lens** [[Alignment Forum]](https://www.alignmentforum.org/posts/qykrYY6rXXM7EEs8Q/understanding-sae-features-with-the-logit-lens)
-* 🌟**Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+* **Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[arxiv 2405]](http://arxiv.org/abs/2405.12522)
 * **Scaling and evaluating sparse autoencoders** [[arxiv 2406]](https://arxiv.org/abs/2406.04093) [[code]](https://github.com/openai/sparse_autoencoder/)
 * **Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=qzsDKwGJyB)
@@ -145,6 +145,7 @@ A curated list of LLM Interpretability related material.
 * **Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=bcV7rhBEcM)
 * **Transcoders find interpretable LLM feature circuits** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=GWqzUR2dOX)
 * **Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders** [[arxiv 2407]](http://arxiv.org/abs/2407.14435)
+* **Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.01280)
 
 
 ##### Visualization
@@ -212,7 +213,7 @@ A curated list of LLM Interpretability related material.
 
 ##### In-context Learning
 
-* 🌟**In-context learning and induction heads**
+* 🌟**In-context learning and induction heads** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
 * **In-Context Learning Creates Task Vectors** [[EMNLP 2023 Findings]](https://aclanthology.org/2023.findings-emnlp.624)
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.609)
   * EMNLP 2023 best paper
@@ -249,10 +250,12 @@ A curated list of LLM Interpretability related material.
 * **Large Language Models are Parallel Multilingual Learners** [[arxiv 2403]](https://arxiv.org/abs/2403.09073)
 * **Understanding the role of FFNs in driving multilingual behaviour in LLMs** [[arxiv 2404]](http://arxiv.org/abs/2404.13855)
 * **How do Llamas process multilingual text? A latent exploration through activation patching** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=0ku2hIm4BS)
+* **Concept Space Alignment in Multilingual LLMs** [[EMNLP 2024]](https://arxiv.org/abs/2410.01079)
 
 ##### Multimodal
 
 * **Interpreting CLIP's Image Representation via Text-Based Decomposition** [[ICLR 2024 oral]](https://openreview.net/forum?id=5Ca9sSzuDp)
+* **Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)** [[NIPS 2024]](https://arxiv.org/abs/2402.10376)
 * **Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines** [[arxiv 2403]](https://arxiv.org/abs/2403.05846)
 * **The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?** [[arxiv 2403]](https://arxiv.org/abs/2403.09037)
 * **Understanding Information Storage and Transfer in Multi-modal Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.04236)
@@ -274,7 +277,7 @@ A curated list of LLM Interpretability related material.
 
 ##### Attention
 
-* **Awesome-Attention-Heads** [[github]](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)
+* 🌟**Awesome-Attention-Heads** [[github]](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)
   * A carefully compiled list that summarizes the diverse functions of the attention heads.
 
 * 🌟**In-context learning and induction heads** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
@@ -315,6 +318,7 @@ A curated list of LLM Interpretability related material.
 * **Mechanics of Next Token Prediction with Self-Attention** [[arxiv 2402]](http://arxiv.org/abs/2403.08081)
 * **The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models** [[arxiv 2403]](http://arxiv.org/abs/2403.08739)
 * **LLM Circuit Analyses Are Consistent Across Training and Scale** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=1WeLXvaNJP)
+* **Geometric Signatures of Compositionality Across a Language Model's Lifetime** [[arxiv 2410]](https://arxiv.org/abs/2410.01444)
 
 ##### Phase Transition/Grokking
 
@@ -357,6 +361,7 @@ A curated list of LLM Interpretability related material.
 * **Simple probes can catch sleeper agents** [[Anthropic Blog]](https://www.anthropic.com/research/probes-catch-sleeper-agents)
 * **PaCE: Parsimonious Concept Engineering for Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.04331)
 * **The Geometry of Categorical and Hierarchical Concepts in Large Language Models** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=KXuYjuBzKo)
+* **Concept Space Alignment in Multilingual LLMs** [[EMNLP 2024]](https://arxiv.org/abs/2410.01079)
 
 ##### Linearity
 
@@ -376,7 +381,7 @@ A curated list of LLM Interpretability related material.
 
 ##### Inference-Time Intervention/Activation Steering
 
-* **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html) [[github]](https://github.com/likenneth/honest_llama)
+* 🌟**Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** [[NIPS 2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81b8390039b7302c909cb769f8b6cd93-Abstract-Conference.html) [[github]](https://github.com/likenneth/honest_llama)
 * **Activation Addition: Steering Language Models Without Optimization** [[arxiv 2308]](http://arxiv.org/abs/2308.10248)
 * **Self-Detoxifying Language Models via Toxification Reversal** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.269)
 * **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models** [[arxiv 2309]](https://arxiv.org/abs/2309.03883)
@@ -388,6 +393,7 @@ A curated list of LLM Interpretability related material.
 * **Spectral Editing of Activations for Large Language Model Alignment** [[arxiv 2405]](http://arxiv.org/abs/2405.09719)
 * **Controlling Large Language Model Agents with Entropic Activation Steering** [[arxiv 2406]](https://arxiv.org/abs/2406.00244)
 * **Analyzing the Generalization and Reliability of Steering Vectors** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=akCsMk4dDL)
+* **Towards Inference-time Category-wise Safety Steering for Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.01174)
 
 ##### Knowledge/Model Editing
 
