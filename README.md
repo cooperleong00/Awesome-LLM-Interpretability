@@ -122,7 +122,7 @@ A curated list of LLM Interpretability related material.
 * **AI Alignment Forum** [[forum]](https://www.alignmentforum.org/)
 * **Lesswrong** [[forum]](https://www.lesswrong.com/)
 * **Neel Nanda** [[blog]](https://www.neelnanda.io/) [[google scholar]](https://scholar.google.com/citations?user=GLnX3MkAAAAJ)
-* **Gor meva** [[google scholar]](https://scholar.google.com/citations?user=GxpQbSkAAAAJ)
+* **Mor Geva** [[google scholar]](https://scholar.google.com/citations?user=GxpQbSkAAAAJ)
 * **David Bau** [[google scholar]](https://scholar.google.com/citations?hl=en&user=CYI6cKgAAAAJ)
 * **Jacob Steinhardt** [[google scholar]](https://scholar.google.com/citations?hl=en&user=LKv32bgAAAAJ)
 * **Yonatan Belinkov** [[google scholar]](https://scholar.google.com/citations?user=K-6ujU4AAAAJ)
