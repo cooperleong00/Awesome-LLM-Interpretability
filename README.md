@@ -194,6 +194,8 @@ A curated list of LLM Interpretability related material.
 * **Transcoders find interpretable LLM feature circuits** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=GWqzUR2dOX)
 * **Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders** [[arxiv 2407]](http://arxiv.org/abs/2407.14435)
 * **Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.01280)
+* **Mechanistic Permutability: Match Features Across Layers** [[arxiv 2410]](https://arxiv.org/abs/2410.07656)
+* **Sparse Autoencoders Reveal Universal Feature Spaces Across Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.06981)
 
 
 ##### Visualization
@@ -221,6 +223,8 @@ A curated list of LLM Interpretability related material.
 ##### General
 
 * **Circuit Component Reuse Across Tasks in Transformer Language Models** [[ICLR 2024 spotlight]](https://openreview.net/forum?id=fpoAYV6Wsk)
+* **Towards Universality: Studying Mechanistic Similarity Across Language Model Architectures** [[arxvi 2410]](https://arxiv.org/abs/2410.06672)
+* **From Tokens to Words: On the Inner Lexicon of LLMs** [[arxiv 2410]](https://arxiv.org/abs/2410.05864)
 
 ##### Reasoning
 
@@ -229,7 +233,8 @@ A curated list of LLM Interpretability related material.
 * **Do Large Language Models Latently Perform Multi-Hop Reasoning?** [[arxiv 2402]](http://arxiv.org/abs/2402.16837)
 * **How to think step-by-step: A mechanistic understanding of chain-of-thought reasoning** [[arxiv 2402]](https://arxiv.org/abs/2402.18312)
 * **Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning** [[arxiv 2402]](https://arxiv.org/abs/2402.18344)
-* **Iteration Head: A Mechanistic Study of Chain-of-Thought** [[arxiv]](https://arxiv.org/abs/2406.02128)
+* **Iteration Head: A Mechanistic Study of Chain-of-Thought** [[arxiv 2406]](https://arxiv.org/abs/2406.02128)
+* **From Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency** [[arxiv 2410]](https://arxiv.org/abs/2410.05459)
 
 ##### Function
 
@@ -273,6 +278,7 @@ A curated list of LLM Interpretability related material.
 * **How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning** [[arxiv 2402]](http://arxiv.org/abs/2402.02872)
 * **Parallel Structures in Pre-training Data Yield In-Context Learning** [[arxiv 2402]](http://arxiv.org/abs/2402.12530)
 * **What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation** [[arxiv 2404]](http://arxiv.org/abs/2404.07129)
+* **Task Diversity Shortens the ICL Plateau** [[arxiv 2410]](https://arxiv.org/abs/2410.05448)
 
 ##### Factual Knowledge
 
@@ -288,7 +294,7 @@ A curated list of LLM Interpretability related material.
 * **Mechanisms of non-factual hallucinations in language models** [[arxiv 2403]](https://arxiv.org/abs/2403.18167)
 * **Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models** [[arxiv 2403]](arXiv:2403.19521)
 * **Locating and Editing Factual Associations in Mamba** [[arxiv 2404]](arXiv:2404.03646)
-
+* **Probing Language Models on Their Knowledge Source** [[arxiv 2410]](https://arxiv.org/abs/2410.05817}
 
 ##### Multilingual/Crosslingual
 
@@ -299,6 +305,7 @@ A curated list of LLM Interpretability related material.
 * **Understanding the role of FFNs in driving multilingual behaviour in LLMs** [[arxiv 2404]](http://arxiv.org/abs/2404.13855)
 * **How do Llamas process multilingual text? A latent exploration through activation patching** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=0ku2hIm4BS)
 * **Concept Space Alignment in Multilingual LLMs** [[EMNLP 2024]](https://arxiv.org/abs/2410.01079)
+* **On the Similarity of Circuits across Languages: a Case Study on the Subject-verb Agreement Task** [[EMNLP 2024 Findings]](https://arxiv.org/abs/2410.06496)
 
 ##### Multimodal
 
@@ -307,6 +314,7 @@ A curated list of LLM Interpretability related material.
 * **Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines** [[arxiv 2403]](https://arxiv.org/abs/2403.05846)
 * **The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?** [[arxiv 2403]](https://arxiv.org/abs/2403.09037)
 * **Understanding Information Storage and Transfer in Multi-modal Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.04236)
+* **Towards Interpreting Visual Information Processing in Vision-Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.07149)
 
 #### Component
 
@@ -388,6 +396,7 @@ A curated list of LLM Interpretability related material.
 * **Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks** [[ICLR 2024]](https://openreview.net/forum?id=A0HKeKl4Nl)
 * **Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking** [[ICLR 2024]](https://openreview.net/forum?id=8sKcAWOf2D)
 * **The Hidden Space of Transformer Language Adapters** [[arxiv 2402]](http://arxiv.org/abs/2402.13137)
+* **Dissecting Fine-Tuning Unlearning in Large Language Models** [[EMNLP 2024]](https://arxiv.org/abs/2410.06606)
 
 #### Feature Representation/Probing-based
 
@@ -410,6 +419,7 @@ A curated list of LLM Interpretability related material.
 * **PaCE: Parsimonious Concept Engineering for Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.04331)
 * **The Geometry of Categorical and Hierarchical Concepts in Large Language Models** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=KXuYjuBzKo)
 * **Concept Space Alignment in Multilingual LLMs** [[EMNLP 2024]](https://arxiv.org/abs/2410.01079)
+* **Sparse Autoencoders Reveal Universal Feature Spaces Across Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.06981)
 
 ##### Linearity
 
@@ -442,6 +452,7 @@ A curated list of LLM Interpretability related material.
 * **Controlling Large Language Model Agents with Entropic Activation Steering** [[arxiv 2406]](https://arxiv.org/abs/2406.00244)
 * **Analyzing the Generalization and Reliability of Steering Vectors** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=akCsMk4dDL)
 * **Towards Inference-time Category-wise Safety Steering for Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.01174)
+* **A Timeline and Analysis for Representation Plasticity in Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.06225)
 
 ##### Knowledge/Model Editing
 
@@ -466,6 +477,7 @@ A curated list of LLM Interpretability related material.
 * **Updating Language Models with Unstructured Facts: Towards Practical Knowledge Editing** [[arxiv 2402]](http://arxiv.org/abs/2402.18909)
 * **Editing Conceptual Knowledge for Large Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.06259)
 * **Editing the Mind of Giants: An In-Depth Exploration of Pitfalls of Knowledge Editing in Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.01436)
+* **Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing** [[arxiv 2410]](https://arxiv.org/abs/2410.06331)
 
 ##### Hallucination
 
