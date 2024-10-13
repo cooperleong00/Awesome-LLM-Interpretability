@@ -2,6 +2,54 @@
 
 A curated list of LLM Interpretability related material.
 
+## ToC
+- [Tutorial](#tutorial)
+- [Code](#code)
+  - [Library](#library)
+  - [Codebase](#codebase)
+- [Survey](#survey)
+- [Video](#video)
+- [Paper & Blog](#paper--blog)
+  - [By Source](#by-source)
+  - [By Topic](#by-topic)
+    - [Tools/Techniques/Methods](#toolstechniquesmethods)
+      - [General](#general)
+      - [Embedding Projection](#embedding-projection)
+      - [Probing](#probing)
+      - [Causal Intervention](#causal-intervention)
+      - [Automation](#automation)
+      - [Sparse Coding](#sparse-coding)
+      - [Visualization](#visualization)
+      - [Translation](#translation)
+      - [Evaluation/Dataset/Benchmark](#evaluationdatasetbenchmark)
+    - [Task Solving/Function/Ability](#task-solvingfunctionability)
+      - [General](#general-1)
+      - [Reasoning](#reasoning)
+      - [Function](#function)
+      - [Arithmetic Ability](#arithmetic-ability)
+      - [In-context Learning](#in-context-learning)
+      - [Factual Knowledge](#factual-knowledge)
+      - [Multilingual/Crosslingual](#multilingualcrosslingual)
+      - [Multimodal](#multimodal)
+    - [Component](#component)
+      - [General](#general-2)
+      - [Attention](#attention)
+      - [MLP/FFN](#mlpffn)
+      - [Neuron](#neuron)
+    - [Learning Dynamics](#learning-dynamics)
+      - [General](#general-3)
+      - [Phase Transition/Grokking](#phase-transitiongrokking)
+      - [Fine-tuning](#fine-tuning)
+    - [Feature Representation/Probing-based](#feature-representationprobing-based)
+      - [General](#general-4)
+      - [Linearity](#linearity)
+    - [Application](#application)
+      - [Inference-Time Intervention/Activation Steering](#inference-time-interventionactivation-steering)
+      - [Knowledge/Model Editing](#knowledgemodel-editing)
+      - [Hallucination](#hallucination)
+      - [Pruning/Redundancy Analysis](#pruningredundancy-analysis)
+
+
 ## Tutorial
 
 * **Concrete Steps to Get Started in Transformer Mechanistic Interpretability** [[Neel Nanda's blog]](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
@@ -129,7 +177,7 @@ A curated list of LLM Interpretability related material.
 * **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[arxiv 2405]](http://arxiv.org/abs/2405.12522)
 * **Hypothesis Testing the Circuit Hypothesis in LLMs** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=ibSNv9cldu)
 
-##### 🌟Sparse Coding
+##### Sparse Coding
 
 * 🌟**Towards monosemanticity: Decomposing language models with dictionary learning** [[Transformer Circuits Thread]](https://transformer-circuits.pub/2023/monosemantic-features)
 * **Sparse Autoencoders Find Highly Interpretable Features in Language Models** [[ICLR 2024]](https://openreview.net/forum?id=F76bwRSLeK)
