@@ -4,6 +4,7 @@ A curated list of LLM Interpretability related material.
 
 ## ToC
 - [Tutorial](#tutorial)
+- [History](#history)
 - [Code](#code)
   - [Library](#library)
   - [Codebase](#codebase)
@@ -57,6 +58,11 @@ A curated list of LLM Interpretability related material.
 * **ARENA Mechanistic Interpretability Tutorials by Callum McDougall** [[website]](https://arena-ch1-transformers.streamlit.app/)
 * **200 Concrete Open Problems in Mechanistic Interpretability: Introduction by Neel Nanda** [[AlignmentForum]](https://www.alignmentforum.org/s/yivyHaCAmMJ3CqSyj)
 * **Transformer-specific Interpretability** [[EACL 2023 Tutorial]](https://projects.illc.uva.nl/indeep/tutorial/)
+
+## History
+
+* **Mechanistic?** [[BlackBoxNLP workshop at EMNLP 2024]](https://arxiv.org/abs/2410.09087)
+  * This paper explores the multiple definitions and uses of "mechanistic interpretability," tracing its evolution in NLP research and revealing a critical divide within the interpretability community.
 
 ## Code
 
@@ -279,6 +285,7 @@ A curated list of LLM Interpretability related material.
 * **Parallel Structures in Pre-training Data Yield In-Context Learning** [[arxiv 2402]](http://arxiv.org/abs/2402.12530)
 * **What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation** [[arxiv 2404]](http://arxiv.org/abs/2404.07129)
 * **Task Diversity Shortens the ICL Plateau** [[arxiv 2410]](https://arxiv.org/abs/2410.05448)
+* **Inference and Verbalization Functions During In-Context Learning** [[arxiv 2410]](https://arxiv.org/abs/2410.09349)
 
 ##### Factual Knowledge
 
@@ -343,7 +350,8 @@ A curated list of LLM Interpretability related material.
 * **Successor Heads: Recurring, Interpretable Attention Heads In The Wild** [[ICLR 2024]](https://openreview.net/forum?id=kvcbV8KQsi)
 * **A phase transition between positional and semantic learning in a solvable model of dot-product attention** [[arxiv 2024]](http://arxiv.org/abs/2402.03902)
 * **Retrieval Head Mechanistically Explains Long-Context Factuality** [[arxiv 2404]](http://arxiv.org/abs/2404.15574)
-* **Iteration Head: A Mechanistic Study of Chain-of-Thought** [[arxiv]](https://arxiv.org/abs/2406.02128)
+* **Iteration Head: A Mechanistic Study of Chain-of-Thought** [[arxiv 2406]](https://arxiv.org/abs/2406.02128)
+* **When Attention Sink Emerges in Language Models: An Empirical View** [[arxiv 2410]](https://arxiv.org/abs/2410.10781)
 
 ##### MLP/FFN
 
@@ -443,7 +451,7 @@ A curated list of LLM Interpretability related material.
 * **Activation Addition: Steering Language Models Without Optimization** [[arxiv 2308]](http://arxiv.org/abs/2308.10248)
 * **Self-Detoxifying Language Models via Toxification Reversal** [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.269)
 * **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models** [[arxiv 2309]](https://arxiv.org/abs/2309.03883)
-* **In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering** [[arxiv 211]](http://arxiv.org/abs/2311.06668)
+* **In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering** [[arxiv 2311]](http://arxiv.org/abs/2311.06668)
 * **Steering Llama 2 via Contrastive Activation Addition** [[arxiv 2312]](http://arxiv.org/abs/2312.06681)
 * **A Language Model's Guide Through Latent Space** [[arxiv 2402]](http://arxiv.org/abs/2402.14433)
 * **Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment** [[arxiv 2311]](https://arxiv.org/abs/2311.09433)
@@ -478,6 +486,7 @@ A curated list of LLM Interpretability related material.
 * **Editing Conceptual Knowledge for Large Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.06259)
 * **Editing the Mind of Giants: An In-Depth Exploration of Pitfalls of Knowledge Editing in Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.01436)
 * **Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing** [[arxiv 2410]](https://arxiv.org/abs/2410.06331)
+* **Keys to Robust Edits: from Theoretical Insights to Practical Advances** [[arxiv 2410]](https://arxiv.org/abs/2410.09338)
 
 ##### Hallucination
 
