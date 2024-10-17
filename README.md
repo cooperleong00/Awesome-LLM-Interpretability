@@ -202,6 +202,7 @@ A curated list of LLM Interpretability related material.
 * **Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.01280)
 * **Mechanistic Permutability: Match Features Across Layers** [[arxiv 2410]](https://arxiv.org/abs/2410.07656)
 * **Sparse Autoencoders Reveal Universal Feature Spaces Across Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.06981)
+* **Investigating Sensitive Directions in GPT-2: An Improved Baseline and Comparative Analysis of SAEs** [[arxiv 2410]](https://arxiv.org/abs/2410.12555)
 
 
 ##### Visualization
@@ -257,6 +258,7 @@ A curated list of LLM Interpretability related material.
 * 🌟**A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity** [[arxiv 2401]](http://arxiv.org/abs/2401.01967)
 * **Do Llamas Work in English? On the Latent Language of Multilingual Transformers** [[arxiv 2402]](http://arxiv.org/abs/2402.10588)
 * **Evidence of Learned Look-Ahead in a Chess-Playing Neural Network** [[arxiv2406]](https://arxiv.org/abs/2406.00877)
+* **How much do contextualized representations encode long-range context?** [[arxiv 2410]](https://arxiv.org/abs/2410.12292)
 
 ##### Arithmetic Ability
 
@@ -322,6 +324,8 @@ A curated list of LLM Interpretability related material.
 * **The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?** [[arxiv 2403]](https://arxiv.org/abs/2403.09037)
 * **Understanding Information Storage and Transfer in Multi-modal Large Language Models** [[arxiv 2406]](https://arxiv.org/abs/2406.04236)
 * **Towards Interpreting Visual Information Processing in Vision-Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.07149)
+* **Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.12662)
+* **Pixology: Probing the Linguistic and Visual Capabilities of Pixel-based Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.12011)
 
 #### Component
 
@@ -461,6 +465,7 @@ A curated list of LLM Interpretability related material.
 * **Analyzing the Generalization and Reliability of Steering Vectors** [[ICML 2024 MI Workshop]](https://openreview.net/forum?id=akCsMk4dDL)
 * **Towards Inference-time Category-wise Safety Steering for Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.01174)
 * **A Timeline and Analysis for Representation Plasticity in Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.06225)
+* **Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors** [[arxiv 2410]](https://arxiv.org/abs/2410.12299)
 
 ##### Knowledge/Model Editing
 
