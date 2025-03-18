@@ -449,7 +449,12 @@ A curated list of LLM Interpretability related material.
 
 #### Application
 
+##### Training
+* **Aligning Large Language Models with Human Preferences through Representation Engineering** [[arxiv2312]](http://arxiv.org/abs/2312.15997)
 * **ReFT: Representation Finetuning for Language Models** [[arxiv 2404]](https://arxiv.org/abs/2404.03592) [[github]](https://github.com/stanfordnlp/pyreft)
+* **Direct Preference Optimization Using Sparse Feature-Level Constraints** [[arxiv2411]](https://arxiv.org/abs/2411.07618)
+* **LLM Pretraining with Continuous Concepts** [[arxiv2502]](https://arxiv.org/abs/2502.08524)
+
 
 ##### Inference-Time Intervention/Activation Steering
 
