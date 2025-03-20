@@ -139,6 +139,9 @@ A curated list of LLM Interpretability related material.
 
 [[Interactive UI]](https://cooperleong00.github.io/llminterp/)
 
+![https://cooperleong00.github.io/llminterp/](screenshot.png)
+
+
 #### Tools/Techniques/Methods
 
 ##### General
