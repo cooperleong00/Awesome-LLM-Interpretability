@@ -70,6 +70,10 @@ A curated list of LLM Interpretability related material.
 
 * **TransformerLens** [[github]](https://github.com/neelnanda-io/TransformerLens)
   * A library for mechanistic interpretability of GPT-style language models
+* **SAELens** [[github]](https://github.com/jbloomAus/SAELens)
+  * Training and analyzing sparse autoencoders on Language Models
+* **NNSight** [[github]](https://github.com/ndif-team/nnsight)
+  * The nnsight package enables interpreting and manipulating the internals of deep learned models.
 * **CircuitsVis** [[github]](https://github.com/alan-cooney/CircuitsVis)
   * Mechanistic Interpretability visualizations
 * **baukit** [[github]](https://github.com/davidbau/baukit)
@@ -83,8 +87,7 @@ A curated list of LLM Interpretability related material.
   * An open-source mechanistic interpretability library for vision and multimodal models.
 * **pyreft** [[github]](https://github.com/stanfordnlp/pyreft)
   * A Powerful, Parameter-Efficient, and Interpretable way of fine-tuning
-* **SAELens** [[github]](https://github.com/jbloomAus/SAELens)
-  * Training and analyzing sparse autoencoders on Language Models
+
 
 ### Codebase
 
@@ -148,6 +151,10 @@ A curated list of LLM Interpretability related material.
 
 * 🌟**A mathematical framework for transformer circuits** [[blog]](https://transformer-circuits.pub/2021/framework/index.html)
 * **Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models** [[arxiv]](http://arxiv.org/abs/2401.06102)
+* **LatentQA: Teaching LLMs to Decode Activations Into Natural Language** [[arxiv]](https://arxiv.org/abs/2412.08686)
+* **Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers** [[arxiv]](https://arxiv.org/abs/2512.15674)
+* **Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants** [[arxiv]](https://arxiv.org/abs/2512.15712)
+
 
 ##### Embedding Projection
 
