@@ -64,6 +64,11 @@ A curated list of LLM Interpretability related material.
 * **Mechanistic?** [[BlackBoxNLP workshop at EMNLP 2024]](https://arxiv.org/abs/2410.09087)
   * This paper explores the multiple definitions and uses of "mechanistic interpretability," tracing its evolution in NLP research and revealing a critical divide within the interpretability community.
 
+## Platform
+
+* **Neuronpedia** [[website]](https://www.neuronpedia.org/)
+  * Accelerating researchers for Sparse Autoencoders (SAEs) by hosting models, feature dashboards, data visualizations, tooling, and more
+
 ## Code
 
 ### Library
