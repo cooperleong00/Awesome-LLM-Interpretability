@@ -17,6 +17,7 @@ A curated list of LLM Interpretability related material.
       - [General](#general)
       - [Embedding Projection](#embedding-projection)
       - [Probing](#probing)
+      - [Exemplar Auditing and SDM](#exemplar-auditing-and-sdm)
       - [Causal Intervention](#causal-intervention)
       - [Automation](#automation)
       - [Sparse Coding](#sparse-coding)
@@ -175,6 +176,14 @@ A curated list of LLM Interpretability related material.
 ##### Probing
 
 * **Enhancing Neural Network Transparency through Representation Analysis** [[arxiv 2310]](https://arxiv.org/abs/2310.01405) [[openreview]](https://openreview.net/forum?id=aCgybhcZFi)
+
+##### Exemplar Auditing and SDM
+
+* **Detecting Local Insights from Global Labels: Supervised & Zero-Shot Sequence Labeling via a Convolutional Decomposition** [[Computational Linguistics 2021 and EMNLP 2021]](https://doi.org/10.1162/coli_a_00416)
+
+* **Coarse-to-Fine Memory Matching for Joint Retrieval and Classification** [[arxiv 2012]](https://arxiv.org/abs/2012.02287)
+
+* **Similarity-Distance-Magnitude Universal Verification** [[arxiv 2502]](https://arxiv.org/abs/2502.20167)
 
 ##### Causal Intervention
 
