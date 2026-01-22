@@ -100,6 +100,7 @@ A curated list of LLM Interpretability related material.
 
 ## Survey
 
+* **🌟Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models** [[arxiv2601]](https://arxiv.org/abs/2601.14004)
 * **A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models** [[arxiv2503]](https://arxiv.org/abs/2503.05613)
 * **Representation Engineering for Large-Language Models: Survey and Research Challenges** [[arxiv2502]](http://arxiv.org/abs/2502.17601)
 * **Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks** [[SaTML 2023]](https://ieeexplore.ieee.org/abstract/document/10136140) [[arxiv 2207]](https://arxiv.org/abs/2207.13243)
