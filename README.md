@@ -529,6 +529,7 @@ A curated list of LLM Interpretability related material.
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** [[arxiv 2403]](http://arxiv.org/abs/2403.01548)
 * **Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.06448)
 * **Adaptive Activation Steering: A Tuning-Free LLM Truthfulness Improvement Method for Diverse Hallucinations Categories** [[arxiv 2406]](https://arxiv.org/abs/2406.00034)
+* **DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness** [[arxiv 2601]](https://arxiv.org/abs/2601.14210)
 
 ##### Pruning/Redundancy Analysis
 
