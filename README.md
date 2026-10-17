@@ -96,6 +96,8 @@ A curated list of LLM Interpretability related material.
 
 ### Codebase
 
+* **Circuit Lantern** [[github]](https://github.com/IlyaKhalafi/CircuitLantern)
+  * A local web app for transformer activation tracing, causal interventions, and sparse autoencoder experiments.
 * **mamba interpretability** [[github]](https://github.com/Phylliida/mamba_interp)
 
 ## Survey
