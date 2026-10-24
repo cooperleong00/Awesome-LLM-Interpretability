@@ -529,6 +529,8 @@ A curated list of LLM Interpretability related material.
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** [[arxiv 2403]](http://arxiv.org/abs/2403.01548)
 * **Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models** [[arxiv 2403]](https://arxiv.org/abs/2403.06448)
 * **Adaptive Activation Steering: A Tuning-Free LLM Truthfulness Improvement Method for Diverse Hallucinations Categories** [[arxiv 2406]](https://arxiv.org/abs/2406.00034)
+* **ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation** [[NIPS 2025]](https://openreview.net/forum?id=CyUq9D99vE) [[github]](https://github.com/OpenBMB/ParamMute)
+* **SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation** [[arxiv 2606]](https://arxiv.org/abs/2606.27786) [[github]](https://github.com/OpenBMB/SPARK)
 
 ##### Pruning/Redundancy Analysis
 
