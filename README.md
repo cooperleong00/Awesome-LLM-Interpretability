@@ -491,6 +491,7 @@ A curated list of LLM Interpretability related material.
 * **Towards Inference-time Category-wise Safety Steering for Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.01174)
 * **A Timeline and Analysis for Representation Plasticity in Large Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.06225)
 * **Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors** [[arxiv 2410]](https://arxiv.org/abs/2410.12299)
+* **Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior** [[NeurIPS 2026 Spotlight]](https://arxiv.org/abs/2606.08454) [[github]](https://github.com/nguyentuc/INNSteer)
 
 ##### Knowledge/Model Editing
 
